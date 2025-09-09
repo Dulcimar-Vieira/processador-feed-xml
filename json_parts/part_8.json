@@ -1,968 +1,5 @@
 [
   {
-    "title": "Jovem aprendiz- barra mansa",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "BARRA MANSA",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384207__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-barra&location=BARRA-MANSA&geoID=957",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - nova dos iguacu",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "NOVA IGUACU",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384208__1953_c7fbccc4203c6e861ba42e430a8f109e?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=NOVA-IGUACU&geoID=5838",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - queimados",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "QUEIMADOS",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384209__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=QUEIMADOS&geoID=7083",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - araruama",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ARARUAMA",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384210__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ARARUAMA&geoID=610",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - cabo-frio",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CABO FRIO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384211__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CABO-FRIO&geoID=1477",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz  | são gonçalo",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "SAO GONCALO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384212__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-GONCALO&geoID=8096",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - arraial do cabo",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ARRAIAL DO CABO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384213__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ARRAIAL-DO-CABO&geoID=687",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - petrópolis",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "PETROPOLIS",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384214__1953_7e503de8add171119cec3203dab3e8ae?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=PETROPOLIS&geoID=6560",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz- nova friburgo",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "NOVA FRIBURGO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384215__1953_841dd7174dc40315683d5ba8f1537232?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-nova&location=NOVA-FRIBURGO&geoID=5829",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - teresópolis",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "TERESOPOLIS",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384216__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=TERESOPOLIS&geoID=9079",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - três rios",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "TRES RIOS",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384217__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=TRES-RIOS&geoID=9224",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - rio bonito",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "RIO BONITO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384218__1953_74d78c9f65003d09acc6aedcb95786ea?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RIO-BONITO&geoID=7293",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - guapimirim",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "GUAPIMIRIM",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384219__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=GUAPIMIRIM&geoID=3541",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - campinas",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CAMPINAS",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384231__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CAMPINAS&geoID=1713",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - matão (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MATAO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384239__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=MATAO&geoID=5258",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - são carlos (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "SAO CARLOS",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384240__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-CARLOS&geoID=8001",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - são roque (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "SAO ROQUE",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384241__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-ROQUE&geoID=8476",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - osasco (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "OSASCO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384242__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=OSASCO&geoID=6050",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - carapicuíba (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CARAPICUIBA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384243__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CARAPICUIBA&geoID=1966",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz  - jandira (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "JANDIRA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384244__1953_9db430bd79e8c1af9e394b177ec570fe?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=JANDIRA&geoID=4423",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - itapevi (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ITAPEVI",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384245__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ITAPEVI&geoID=12179",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - cotia (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "COTIA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384246__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=COTIA&geoID=2564",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - barueri (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "BARUERI",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384247__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=BARUERI&geoID=1016",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz | salvador (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "SALVADOR",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384248__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SALVADOR&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - lauro de freitas (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "LAURO DE FREITAS",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384249__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=LAURO-DE-FREITAS&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - valencia",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "VALENCA",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384258__1953_896347996cc00b604404c4a2e1dd0e9a?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=VALENCA&geoID=9440",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - fortaleza",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "FORTALEZA",
-    "state": "CE",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384271__1953_14d5e1bb8ff179a4ef793fb7b8e7fff8?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=FORTALEZA&geoID=3263",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz | niterói",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "NITEROI",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384272__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=NITEROI&geoID=5727",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - alegrete",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ALEGRETE",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384273__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ALEGRETE&geoID=208",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - alvorada",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ALVORADA",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384274__1953_2ba3b77b9ed807565edf62e3b489c4f3?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ALVORADA&geoID=336",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - bagé",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "BAGE",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384275__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=BAGE&geoID=788",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - bento gonçalves",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "BENTO GONCALVES",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384276__1953_68ab5f79e640c5af7b3cab75e97aacca?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=BENTO-GONCALVES&geoID=1109",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz (campo bom)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CAMPO BOM",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384277__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-campo&location=CAMPO-BOM&geoID=1734",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz- canela",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CANELA",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384278__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-canela&location=CANELA&geoID=1835",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - capão da canoa",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CAPAO DA CANOA",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384279__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CAPAO-DA-CANOA&geoID=1879",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - carazinho",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CARAZINHO",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384280__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CARAZINHO&geoID=1979",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - caxias do sul",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CAXIAS DO SUL",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384281__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CAXIAS-DO-SUL&geoID=2154",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - canoas",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "CANOAS",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384282__1953_0a855413fc67f27d4a9773a7072084d3?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CANOAS&geoID=1851",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - erechim",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ERECHIM",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384283__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ERECHIM&geoID=2989",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - gravataí",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "GRAVATAI",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384284__1953_89bb5ed62b9f403208ae26f4de1ac86d?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=GRAVATAI&geoID=3492",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - lajeado",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "LAJEADO",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384285__1953_d81ac5b79ee04906a16e545d5dbd60fe?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=LAJEADO&geoID=4783",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - marau",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MARAU",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384286__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=MARAU&geoID=5136",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - montenegro",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MONTENEGRO",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384287__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=MONTENEGRO&geoID=5534",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz  osório",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "OSORIO",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384288__1953_65dbefd7d5c0869e834a0190a09c76ec?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=OSORIO&geoID=6052",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz-  pelotas",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "PELOTAS",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384289__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=PELOTAS&geoID=6501",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz (macaé)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MACAE",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384290__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-maca%C3%A9&location=MACAE&geoID=4964",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - itaguaí",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ITAGUAI",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384291__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ITAGUAI&geoID=4096",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - nilopolis",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "NILOPOLIS",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384292__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=NILOPOLIS&geoID=5719",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - magé",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MAGE",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384293__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=MAGE&geoID=5011",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - itaborai",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "ITABORAI",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384294__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ITABORAI&geoID=4070",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - maricá",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "MARICA",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384295__1953_e2640949da4dc43809296da51b14bc3f?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=MARICA&geoID=5181",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - rio de janeiro (1)",
-    "description": "<p>Formação acadêmica mínima: cursando o ensino médio ou ter ensino médio completo; </p><p>Faixa etária: mínimo 17 a 23 anos; </p><p><br></p>",
-    "company": "RD Saúde - Farmácias",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6384529__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<ul><li>Conhecimento básico em pacote office; </li><li>Boa comunicação, organização e proatividade. </li> </ul><ul><li>Cadastro de fornecedores; </li><li>Lançamento de notas fiscais no sistema; </li><li>Auxilio na coleta e análise de documentação; </li><li>Demais demandas do setor. </li> </ul>",
-    "company": "Concrejato Engenharia",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385565__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - gestão de pessoas",
-    "description": "<p>Requisitos e Qualificações: </p><p>Ensino médio completo ou em andamento </p><p>Curso de Informática básica (Word, Excel, Internet) </p><p>Boa comunicação oral e escrita </p><p>Organização e atenção aos detalhes </p><p>Proatividade e vontade de aprender </p><p>Cursos técnicos ou profissionalizantes são um diferencial </p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p  >Principais Responsabilidades: </p><p>Conferir documentação de colaboradores para admissão; </p><p>Apoiar ações de clima quando houver a necessidade; </p><p>Protocolar e encaminhar nota fiscal para pagamento; </p><p>Apoiar as atividades de treinamento e desenvolvimento; </p><p>Apoiar nas atividades correlatas da área de Gestão de Pessoas.  </p>",
-    "company": "Trust Control",
-    "city": "FORTALEZA",
-    "state": "CE",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385569__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=FORTALEZA&geoID=3263",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - plaza shopping niterói",
-    "description": "<p>REQUISITOS E QUALIFICAÇÕES  </p><p><br></p><p>Pra jogar bonito você precisa ter: </p><p><br></p><ul><li>Entre 16 e 22 anos </li><li>Estar cursando e/ou ser formado no Ensino Médio </li><li>Não é preciso ter nenhuma experiência de trabalho anterior </li> </ul><p><br></p><p><br></p><p><br></p><p>RESPONSABILIDADES E ATRIBUIÇÕES </p><p><br></p><p>Para entrar em campo nesta posição, você precisa: </p><p><br></p><ul><li>Organizar a área de vendas (por tamanho, etiquetas, alarmes e exposição). </li><li>Apoiar \tna reposição da área de vendas, por meio de relatórios de \tabastecimento. </li><li>Acolher nossos clientes, entender suas necessidades e oferecer nossa \tencomenda expressa para itens que não temos à pronta entrega. </li><li>Garantir o encantamento dos nossos clientes, por meio das nossas experiências em loja (gôndolas, caixa rápido, provador inteligente). </li><li>Receber e processar produtos para exposição na área de vendas. </li><li>Auxiliar em rotinas administrativas. </li> </ul><p><br></p>",
-    "company": "Centauro Talentos",
-    "city": "NITEROI",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385641__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=NITEROI&geoID=5727",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - zona norte/rj",
-    "description": "<ul><li>Necessário estar cursando ou ter concluído o ensino médio; </li><li>Disponibilidade para realizar uma vez na semana, a capacitação do programa de aprendizagem; </li><li>Ter curiosidade e aptidão por aprender. </li> </ul><p>O Jovem aprendiz ficará responsável por auxiliar nas atividades da loja, prestando suporte a equipe, de forma dinâmica, proativa e atenciosa. </p>",
-    "company": "Dress to",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385664__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - jandira",
-    "description": "Requisitos:<ul><li>Ter entre 14 e 24 anos (conforme a legislação vigente); </li><li>Estar cursando ou ter concluído o Ensino Médio; </li><li>Disponibilidade para cumprir a carga horária do programa (geralmente 4 a 6 horas diárias); </li><li>Vontade de aprender e se desenvolver profissionalmente; </li><li>Boa comunicação, proatividade e responsabilidade. </li> </ul><p><br></p>Principais Atividades:<ul><li>Apoio nas rotinas administrativas do setor; </li><li>Organização e arquivamento de documentos; </li><li>Atendimento telefônico e presencial (quando aplicável); </li><li>Lançamento de dados em sistemas internos; </li><li>Suporte a diferentes áreas da empresa conforme necessidade; </li><li>Participação em curso de aprendizagem teórica em instituição parceira. </li> </ul><p><br></p>",
-    "company": "Pashal Locadora de Equipamentos",
-    "city": "JANDIRA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385673__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=JANDIRA&geoID=4423",
-    "tipo": ""
-  },
-  {
-    "title": "Assistente administrativo aprendiz i baviera - santo antônio de jesus",
-    "description": "<ul><li>Ensino Médio em curso (com matrícula e frequência regular) ou completo; </li><li>Idade entre 14 e 21 anos; </li><li>Carteira de Reservista (para candidatos do sexo masculino maiores de idade). </li> </ul><ul><li>Apoiar nas atividades administrativas do setor, organizando documentos e atualizando planilhas </li><li>Auxiliar no atendimento interno e na comunicação entre áreas </li><li>Gerenciar correspondências e controlar materiais do departamento </li><li>Prestar suporte em processos administrativos, como cadastros e relatórios </li><li>Participar de reuniões e treinamentos para desenvolvimento profissional </li> </ul>",
-    "company": "Grupo Indiana",
-    "city": "SANTO ANTONIO DE JESUS",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385807__1953?utm_source=1953&utm_medium=feed&keyword=Assistente-administrativo-aprendiz&location=SANTO-ANTONIO-DE-JESUS&geoID=7895",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz administrativo | pensi vila da penha",
-    "description": "<ul><li>Ensino Médio Completo; </li><li>Conhecimento no Pacotte Office será um diferencial; </li><li>Comprometimento; </li><li>Boa comunicação; </li> </ul><ul><li> Realizar atividades administrativas voltada a gestão escolar; </li><li>Suporte ao time de coordenação; </li><li>Atendimento telefônico; </li> </ul>",
-    "company": "Pensi",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385885__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-administrativo&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz (2)",
-    "description": "<ul><li>Ensino médico completo; </li><li>É necessário ter entre 18 e 24 anos; </li><li>Ter fácil acesso à Moema; </li><li>Não ter atuado ainda como jovem aprendiz. </li> </ul><ul><li>Apoiar nas atividades de  contas a pagar e contas a receber </li><li>Cobrança de inadimplentes. </li><li>Emissão e expedição de notas. </li> </ul>",
-    "company": "Oportunidade na Servimex!",
-    "city": "SAO PAULO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385890__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-PAULO&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz",
-    "description": "<ul><li>Estar cursando ou ter concluído Ensino Médio. </li><li>Noções básicas de Word, Excel e ferramentas Google. </li><li>Conhecimento em Informática básica. </li><li>Comprometimento e interesse na evolução constante do seu conhecimento. </li> </ul><ul><li>Atender aos usuários. </li><li>Auxiliar na recuperação e conservação dos livros. </li><li>Zelar pela segurança, bom uso e manuseio do acervo em geral, buscando a educação dos usuários no cuidado com o material da Biblioteca. </li><li>Controlar o atraso de livros, fazendo os contatos necessários. </li><li>Realizar empréstimos, devoluções, renovações e reservas de materiais. </li><li>Cobrar e dar baixa em multas. </li><li>Fazer o fechamento diário do caixa da biblioteca. </li><li>Localizar publicações no acervo. </li><li>Ordenar e organizar estantes e coleções. </li><li>Realizar serviços auxiliares de processamento técnico. </li><li>Cadastrar usuários. </li><li>Efetuar recebimentos e inspeção de livros comprados. </li><li>Receber doações. </li><li>Auxiliar no inventário. </li><li>Auxiliar o bibliotecário nas atividades diárias e de rotina. </li><li>Preparar o material para empréstimo (etiquetas, carimbos, etc.). </li><li>Vistoriar diariamente o funcionamento dos equipamentos de informática. </li><li>Solicitar a renovação de assinaturas de periódicos. </li><li>Verificar estoque de materiais necessários para o funcionamento do setor. </li><li>Realizar manutenção preventiva do acervo. </li><li>Executar outras tarefas compatíveis com as exigências para o exercício da função. </li> </ul><p  ><br></p>",
-    "company": "Grupo BOM JESUS IELUSC",
-    "city": "JOINVILLE",
-    "state": "SC",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385976__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=JOINVILLE&geoID=4554",
-    "tipo": ""
-  },
-  {
-    "title": "Pessoa aprendiz",
-    "description": "<p>Imprescindíveis: </p><ul><li>Ensino Médio completo ou cursando; </li><li>Ter entre 18 e 23 anos; </li><li>Possuir carteira de trabalho e título de eleitor; </li><li>Ter certificado de reservista (masculino); </li><li>Não estar cursando graduação. </li> </ul><p><br></p><p>Desejáveis: </p><ul><li>Conhecimento em Pacote Office; </li> </ul><p>O Aprendiz irá executar atividades administrativas: </p><ul><li>Recepção de clientes; </li><li>Organização de arquivos e documentos físicos ou digitais; </li><li>Conferência e lançamento de notas fiscais; </li><li>Elaboração e controle de planilhas; </li><li>Atendimento telefônico, presencial e anotação de recados; </li><li>Envio e conciliação de horários nas agendas dos executivos; </li><li>Auxiliar a equipe com trabalhos administrativos do setor em geral. </li> </ul>",
-    "company": "Vagas Corporativas, Administrativas e de Atendimento Hospital Alemão Oswaldo Cruz",
-    "city": "SAO PAULO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385978__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-aprendiz&location=SAO-PAULO&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - atibaia",
-    "description": "<ul><li>Ensino Médio Cursando; </li><li>Relacionamento interpessoal; </li><li>Trabalho em equipe. </li> </ul><p>O aprendizado ocorrerá através de estágios em cada setor, conforme estipulado no cronograma de atividades assinados pelas partes (Instituição, Roldão e Aprendiz) </p><p><br></p><p> Atuará no setor administrativo, organizando documentos e arquivos, entregando relatórios para os chefes de setor, encaminhando malotes, organizando salas para realização de seleção ou treinamentos, realizando levantamento da quantidade de uniformes disponíveis na loja, entregando documentos e notas para assinatura da gerência, separando romaneios (organização por data, setor); </p><p><br></p><p> Atuar no setor de Recursos Humanos, auxiliando na triagem de currículos, organizando e separando os demonstrativos de pagamentos, organizando atestados médicos, convocando candidatos para entrevistas, auxiliando no processo de seleção, realizando entrega de formulários de solicitação de emprego e provas; </p><p><br></p><p> Atuar no setor de frente de caixa, recolhendo mercadorias, efetuando devoluções, atendendo e orientando os clientes da loja; </p><p><br></p><p> Atuar no setor de SAC, atendendo os telefonemas e transferindo para as áreas devidas, realizando chamadas, organizando as notas fiscais e vale trocas; </p><p><br></p><p> Atuar no setor de mercearia, verificando a data de validade das mercadorias, realizando precificação, efetuando reposição de produtos (leves) e higienização das gôndolas; </p><p><br></p><p> Atuar no setor de perecíveis, verificando a data de validade dos produtos, efetuando reposição e pesagem.  </p>",
-    "company": "Roldão Atacadista",
-    "city": "ATIBAIA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6385980__1953_8cb0137a0e194332339df20add68587d?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ATIBAIA&geoID=737",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz Administrativo",
-    "description": "Estamos recebendo currículos para nosso banco de talentos de jovens profissionais, interessados em ingressar no mercado de trabalho para participar do nosso programa de aprendizagem, que é voltado para a área administrativa. Aqui, você irá aprender as principais características e entregas da área e ficará por dentro de como ser um ótimo profissional para o mercado de trabalho.<br /><br />No campo Habilidades e Qualificações você deverá anexar seu currículo atualizado em formato PDF<br /><br /><br />Responsabilidades e atribuições<br /><br />Conferir e organizar documentos físicos e na rede;<br />Organizar, arquivar e digitalizar documentos;<br />Conferir os materiais de escritório e solicitar à área de facilities/compras<br /><br /><br />Requisitos e qualificações<br /><br />Ensino médio cursando ou completo;<br />Ter entre 16 e 22 anos (para pessoas com deficiência, não há limitação de idade);<br />Disponibilidade para atuar no período da manhã ou tarde<br />Jornada de 4 ou 6 horas<br /><br />",
-    "company": "CTA Engenharia Ambiental Ltda",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386067__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-Administrativo&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - salvador/ba",
-    "description": "Candidate-se rapidamente pelo email: <br>Requisitos e qualificações: <p><p  >Ensino médio completo ou cursando;  </p> </p><p><p  >Conhecimento de Pacote Office. </p> </p><br>Benefícios: Auxílio Transporte, Auxilio Alimentação <br>Jornada de trabalho: Segunda a Sexta - 09 ás 15h <br>Conhecimentos:<br>Escolaridade: Ensino médio - Cursando<br>Habilidades técnicas: Pacote Office<br>",
-    "company": "Clima Rio",
-    "city": "SALVADOR",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386115__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SALVADOR&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - imbiribeira - recife - ce",
-    "description": "Candidate-se rapidamente pelo email: <br>Requisitos e qualificações: <p><p  >Ensino médio completo ou cursando;  </p> </p><p><p  >Conhecimento de Pacote Office. </p> </p><br>Benefícios: Auxílio Transporte<br>Jornada de trabalho: Segunda a Sexta - 13h às 17h. <br>Conhecimentos:<br>Escolaridade: Ensino médio - Cursando<br>Habilidades técnicas: Pacote Office<br>",
-    "company": "Clima Rio",
-    "city": "RECIFE",
-    "state": "PE",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386116__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RECIFE&geoID=7157",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz rh",
-    "description": "Candidate-se rapidamente pelo email: <br>Responsabilidades e experiências desejáveis: <p>Atividades </p><p><p  >Organizar documentos, arquivando-os em pastas específicas, para manter a ordem e facilitar o acesso quando necessário. Atender as chamadas telefônicas e Whatsapp e de forma educada e direcionar para os setores corretos, para garantir uma comunicação eficiente dentro da empresa. Apoiar na elaboração de relatórios, coletando e analisando dados, para auxiliar na tomada de decisões e no acompanhamento das atividades do setor. Participar de treinamentos, absorvendo novos conhecimentos e habilidades, para promover seu desenvolvimento profissional contínuo. </p> </p><p>Requisitos </p><p>DE 18 a 22 anos;  </p><p>Estar cursando administração ou RH; </p><p>Experiência em RH será um diferencial; </p><p>Residir próximo a Colombo. </p><br>Benefícios: Vale transporte, Vale alimentação, Plano de saúde, Plano odontológico , Refeição no local, Seguro de vida<br>Jornada de trabalho: Das 08:00 às 14:15, sendo 15 minutos de intervalo.<br>Conhecimentos:<br>Escolaridade: Graduação - ADM Recursos Humanos - Cursando<br>",
-    "company": "Cidade Júnior",
-    "city": "QUATRO BARRAS",
-    "state": "PR",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386136__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-rh&location=QUATRO-BARRAS&geoID=7071",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz logística",
-    "description": "Candidate-se rapidamente pelo email: <br>Responsabilidades e experiências desejáveis: <p>Atividades </p><p><p  >Auxiliar nas atividades administrativa da logística, lançamento de NF e conferência. </p> </p><p>Requisitos </p><p>Acima de 16 anos; </p><p>Masculino </p><p>Vaga em Campina Grande do Sul. </p><br>Benefícios: Vale transporte, Vale alimentação<br>Jornada de trabalho:  1 Vaga para 08:00 ás 12:00  e  1 Vaga 14:00 as 18:00,  de segunda a sexta -feira.<br>Conhecimentos:<br>Escolaridade: Ensino médio - Cursando<br>",
-    "company": "Cidade Júnior",
-    "city": "CAMPINA GRANDE DO SUL",
-    "state": "PR",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386141__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-log%C3%ADstica&location=CAMPINA-GRANDE-DO-SUL&geoID=1707",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz administrativo (35)",
-    "description": "<p>Descrição da vaga </p><p>Estamos à procura de um(a) Aprendiz Administrativo para executar serviços de apoio nas áreas administrativas. Tratar de documentos variados, cumprindo todo o procedimento e fluxo necessário de acordo com o setor envolvido. Além de elaborar planilhas, apresentações, preencher planilhas cumprindo as orientações da área. </p><p>Se você é um jovem talento, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar! </p><p>Vamos velejar rumo ao futuro! #VemSerBrisanet <br>Como será o seu dia a dia?<br>- Vivenciar a identidade organizacional do Grupo Brisanet;<br>- Preparar relatórios, formulários ou planilhas, conforme solicitações;<br>- Alimentar indicadores da área, quando necessário;<br>- Participar ativamente das reuniões e compromissos da organização, quando solicitado;<br>- Utilizar os equipamentos de segurança individual e coletiva, quando necessário;<br>- Executar demais atividades correlatas ao cargo, segundo necessidades da área e direcionamento da liderança.<br>- Auxiliar o supervisor nos processos administrativos do setor;<br>- Acompanhar recursos materiais e financeiros, solicitando troca quando necessário;<br>- Realizar acompanhamento de relatórios;<br>- Acompanhar pagamentos de serviços prestados à empresa;<br>- Realizar atendimento a clientes internos e externos;<br>- Realizar controle de atestados, faltas, comissões e férias ao Departamento Pessoal.<br>O que buscamos para esta oportunidade: </p><p>- Ter entre 14 e 24 anos;<br>- Estar cursando Ensino Fundamental ou Médio;<br>- Deve estar matriculado em instituições qualificadas para ministrar cursos de aprendizagem.<br>Será considerado um diferencial:<br>- Experiência de 1 ano como aprendiz/estagiário;<br>- Ferramentas Google (Planilhas, Documentos).<br>No Grupo Brisanet você vai encontrar:<br>- Cultura de trabalho que respeita e valoriza as pessoas;<br>- Eventos internos que abordam temas diversos;<br>- Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;<br>- Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!;<br>- Alimentação (Sede via Refeitório e Filiais via Alelo);<br>- Descontos de até 50% nos serviços Brisanet de Internet e BrisaMusic;<br>- Descontos em Instituições de Ensino Superior de até 60%. </p>",
-    "company": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
-    "city": "FEIRA DE SANTANA",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386409__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=FEIRA-DE-SANTANA&geoID=3145",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz repositor de mercadorias-122",
-    "description": "<p>Porque Trabalhar Conosco? </p><p>O grupo Savegnago oferece um ambiente de trabalho estimulante, oportunidades de crescimento profissional e uma equipe acolhedora que valoriza a colaboração e a inovação. </p><p>O que você irá entregar:   </p><p>O (a) Aprendiz  Repositor de Mercadorias irá aprender as rotinas dos departamentos em que passar (Administrativo; Frente de Caixa; Atendimento da Padaria, FLV; Área de Vendas).Irá frequentar o curso teórico oferecido em complemento à aprendizagem prática; </p><p>Responsável por:  </p><ul><li>Aprender e executar reposição, rodízio (método PVPS) e organização de mercadorias; </li><li>Aprender e acompanhar as alterações de preços (etiquetas) dos produtos nas gôndolas; </li><li>Aprender a reconhecer e separar mercadorias fora das condições de venda; </li><li>Aprender sobre e organizar produtos conforme layout da loja; </li><li>Aprender a identificar e separar documentos relacionados a funcionários, relativos a férias, admissão, demissão, afastamento e distribuir ao responsável ou arquivar quando necessário; </li><li> Aprender e acompanhar, juntamente com a ADM, prazos e vencimentos de benefícios (convênios e vales transportes) dos funcionários; </li><li>Auxiliar no recolhimento de carrinhos/cestinhas deixados no estacionamento; </li><li>Compreender os procedimentos gerais de todos os setores da unidade; </li> </ul><p>Estamos em busca de pessoas que possuam:  </p><ul><li>Cursando ensino médio </li> </ul><p>Onde você irá trabalhar?  </p><p>Nossa jornada de trabalho:   </p><p>Todas as oportunidades estão disponíveis para pessoas com deficiência (PcD). </p><p><br></p>",
-    "company": "SAVEGNAGO SUPERMERCADOS LTDA",
-    "city": "FRANCA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386522__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-repositor-de&location=FRANCA&geoID=3279",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz  repositor de mercadorias (123)",
-    "description": "<p>Porque Trabalhar Conosco? </p><p>O grupo Savegnago oferece um ambiente de trabalho estimulante, oportunidades de crescimento profissional e uma equipe acolhedora que valoriza a colaboração e a inovação. </p><p>O que você irá entregar:   </p><p>O (a) Aprendiz  Repositor de Mercadorias irá aprender as rotinas dos departamentos em que passar (Administrativo; Frente de Caixa; Atendimento da Padaria, FLV; Área de Vendas).Irá frequentar o curso teórico oferecido em complemento à aprendizagem prática; </p><p>Responsável por:  </p><ul><li>Aprender e executar reposição, rodízio (método PVPS) e organização de mercadorias; </li><li>Aprender e acompanhar as alterações de preços (etiquetas) dos produtos nas gôndolas; </li><li>Aprender a reconhecer e separar mercadorias fora das condições de venda; </li><li>Aprender sobre e organizar produtos conforme layout da loja; </li><li>Aprender a identificar e separar documentos relacionados a funcionários, relativos a férias, admissão, demissão, afastamento e distribuir ao responsável ou arquivar quando necessário; </li><li> Aprender e acompanhar, juntamente com a ADM, prazos e vencimentos de benefícios (convênios e vales transportes) dos funcionários; </li><li>Auxiliar no recolhimento de carrinhos/cestinhas deixados no estacionamento; </li><li>Compreender os procedimentos gerais de todos os setores da unidade; </li> </ul><p>Estamos em busca de pessoas que possuam:  </p><ul><li>Cursando ensino médio </li> </ul><p>Onde você irá trabalhar?  </p><p>Savegnago Supermercados Loja 11 - Franca SP </p><p>Nossa jornada de trabalho:   </p><p>Todas as oportunidades estão disponíveis para pessoas com deficiência (PcD). </p><p><br></p>",
-    "company": "SAVEGNAGO SUPERMERCADOS LTDA",
-    "city": "FRANCA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386533__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-repositor&location=FRANCA&geoID=3279",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz  repositor de mercadorias (124)",
-    "description": "<p>Porque Trabalhar Conosco? </p><p>O grupo Savegnago oferece um ambiente de trabalho estimulante, oportunidades de crescimento profissional e uma equipe acolhedora que valoriza a colaboração e a inovação. </p><p>O que você irá entregar:   </p><p>O (a) Aprendiz  Repositor de Mercadorias irá aprender as rotinas dos departamentos em que passar (Administrativo; Frente de Caixa; Atendimento da Padaria, FLV; Área de Vendas).Irá frequentar o curso teórico oferecido em complemento à aprendizagem prática; </p><p>Responsável por:  </p><ul><li>Aprender e executar reposição, rodízio (método PVPS) e organização de mercadorias; </li><li>Aprender e acompanhar as alterações de preços (etiquetas) dos produtos nas gôndolas; </li><li>Aprender a reconhecer e separar mercadorias fora das condições de venda; </li><li>Aprender sobre e organizar produtos conforme layout da loja; </li><li>Aprender a identificar e separar documentos relacionados a funcionários, relativos a férias, admissão, demissão, afastamento e distribuir ao responsável ou arquivar quando necessário; </li><li> Aprender e acompanhar, juntamente com a ADM, prazos e vencimentos de benefícios (convênios e vales transportes) dos funcionários; </li><li>Auxiliar no recolhimento de carrinhos/cestinhas deixados no estacionamento; </li><li>Compreender os procedimentos gerais de todos os setores da unidade; </li> </ul><p>Estamos em busca de pessoas que possuam:  </p><ul><li>Cursando ensino médio </li> </ul><p>Onde você irá trabalhar?  </p><p>Savegnago Rua Acre 1400 Ipiranga  no horário das 08:00 as 12:00  </p><p>Nossa jornada de trabalho:   </p><p>Todas as oportunidades estão disponíveis para pessoas com deficiência (PcD). </p><p><br></p>",
-    "company": "SAVEGNAGO SUPERMERCADOS LTDA",
-    "city": "RIBEIRAO PRETO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386537__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-repositor&location=RIBEIRAO-PRETO&geoID=7263",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz",
-    "description": "<p>A Construtora Elevação está em busca de um(a) aprendiz para atuar na área de recrutamento e seleção, com perfil organizado, comunicativo e proativo, para auxiliar nas rotinas do setor. </p><p>Responsabilidades: </p><ul><li>Auxiliar nas rotinas do departamento </li><li>Apoiar a triagem de currículos, agenda de entrevistas, contato com candidatos </li><li>Realizar envio de testes e pesquisas a candidatos </li><li>Auxiliar no mapeamento de fornecedores e instituições para serviços de Atração </li> </ul><p>Requisitos: </p><ul><li>Formação - Ensino médio, técnico ou superior cursando </li><li>Modelo de Trabalho - Presencial </li><li>Disponibilidade para trabalho das 08h ás 12h, ou das 14h ás 18h de segunda a sexta </li> </ul><p>Diferenciais:  </p><ul><li>Conhecimento em pacote office </li> </ul><p>Buscamos a inclusão de PCDs em todas as nossas vagas que atendam os aspectos legais e de segurança. </p>",
-    "company": "Construtora Elevação",
-    "city": "CURITIBA",
-    "state": "PR",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386658__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=CURITIBA&geoID=2691",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<p>Responsabilidades: </p><ul><li>Apoiar em atividades administrativas e rotinas do setor; </li><li>Organização e arquivamento de documentos; </li><li>Auxílio no atendimento (presencial, telefônico ou e-mail); </li><li>Lançamento de informações em sistemas e planilhas; </li><li>Apoio às demandas da equipe em geral. </li> </ul><p>O que buscamos? </p><ul><li>Idade entre 14 e 24 anos (conforme Lei da Aprendizagem); </li><li>Estar cursando ou ter concluído o ensino médio; </li><li>Conhecimentos básicos em informática (Pacote Office, e-mail, internet); </li><li>Boa comunicação e disposição para aprender. </li> </ul><p>Diferenciais: </p><ul><li>Bolsa-auxílio; </li><li>Vale-transporte; </li><li>Assistência Médica; </li><li>Assistência Odontológica; </li><li>Vale Refeição/Alimentação; </li><li>Seguro de Vida; </li><li>Ambiente de aprendizado e desenvolvimento contínuo. </li> </ul>",
-    "company": "CTC",
-    "city": "BRASILIA",
-    "state": "DF",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386825__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=BRASILIA&geoID=1366",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de talentos - jovem aprendiz - tailândia/pa",
-    "description": "<p>Nas EMPRESAS REVEMAR, valorizamos a diversidade e acreditamos que times plurais constroem resultados mais sólidos, inovadores e humanos. Por isso, mantemos nosso Banco de Talentos para Jovens Aprendizes que desejam ingressar no mercado de trabalho. </p><p><br></p><p><br></p><p>O candidato ideal deve ter disponibilidade de horário, ser persistente em seus objetivos, comprometido com suas atividades, determinado em alcançar metas e objetivos, e sempre agir com ética e disciplina em todas as situações. </p><p><br></p><p>Além disso, é importante que o candidato tenha habilidades em gestão do tempo, foco no cliente, trabalho em equipe, comunicação, relacionamento interpessoal, organização, capacidade de análise e síntese, prestatividade e dinamismo. </p><p><br></p><p>O candidato selecionado será responsável por realizar atividades diversas em diferentes áreas da empresa, incluindo atendimento ao cliente, organização de documentos de materiais, auxílio em processos internos, entre outras. </p><p><br></p><p>Aqui, você encontra um ambiente acolhedor, com oportunidades reais de crescimento e aprendizado. Valorizamos a atitude, o empenho e o desejo de evoluir junto com a gente. </p><p>Se você se identifica com esse perfil e quer iniciar sua jornada profissional com propósito, cadastre seu currículo em nosso Banco de Talentos. Estamos ansiosos para conhecer você! </p>",
-    "company": "Revemar",
-    "city": "BELEM",
-    "state": "PA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6386863__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-talentos&location=BELEM&geoID=1072",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz administrativo - rh",
-    "description": "Descrição: <p>Receber, formatar e arquivar documentos; </p><p>Digitar textos e planilhas;  </p><p>Preencher formulários e/ou cadastros; </p><p>Inserir documentos dos colaboradores nos dossiês; </p><p>Preparar informativo de Admissão e Promoção; </p><p>Dar apoio nas ações de endomarketing; </p><p>Preparar Kit de Integração; </p><p>Dar baixa na planilha decontrole de uniformes; </p><p>Inserir documentos dos colaboradores admitidos na pasta compartilhada; </p><p>Esclarecer dúvidas dos colaboradores; </p><p>Executar rotinas de apoio na área de Recursos Humanos; </p><p>Realizar atividades correlatas solicitadas pelo Gestor; </p><p>Seguir todos os preceitos de segurança, saúde e meio ambiente; </p><p>Seguir e respeitar todas as políticas, normas e procedimentos da empresa. </p>Observações sobre a remuneração:",
-    "company": "GRUPO MÔNACO",
-    "city": "CUIABA",
-    "state": "MT",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387214__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=CUIABA&geoID=2659",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz - administrativo - recursos humanos",
-    "description": "Descrição: <p>Receber, formatar e arquivar documentos; </p><p>Digitar textos e planilhas; </p><p>Preencher formulários e/ou cadastros; </p><p>Inserir documentos dos colaboradores nos dossiês; </p><p>Preparar informativo de Admissão e Promoção; </p><p>Dar apoio nas ações de endomarketing; </p><p>Preparar Kit de Integração; </p><p>Dar baixa na planilha de controle de uniformes; </p><p>Inserir documentos dos colaboradores admitidos na pasta compartilhada; </p><p>Esclarecer dúvidas dos colaboradores; </p><p>Executar rotinas de apoio na área de Recursos Humanos; </p>Observações sobre a remuneração: Não informado",
-    "company": "GRUPO MÔNACO",
-    "city": "SAO LUIS",
-    "state": "MA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387217__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=SAO-LUIS&geoID=8348",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "Descrição: <p>Armazenagem;<br>Separação;<br>Conferência;<br>Contagem;<br>Expedição + Balcão.<br></p>Observações sobre a remuneração: Não informado",
-    "company": "TOLI DISTRIBUIDORA",
-    "city": "VILA VELHA",
-    "state": "ES",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387219__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=VILA-VELHA&geoID=9657",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - são leopoldo",
-    "description": "Descrição: <p>Jovem Aprendiz </p>Observações sobre a remuneração: Não informado",
-    "company": "Comercial Zaffari",
-    "city": "SAO LEOPOLDO",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387258__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-LEOPOLDO&geoID=8335",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz iplace - rio de janeiro/rj (norte shopping)",
-    "description": "<ul><li>Ensino Médio completo ou em andamento; </li><li>Ter entre 15 e 18 anos de idade; </li><li>Disponibilidade para realizar o curso (aula teórica) no Senac ou Renapsi, voltado ao Programa de Aprendizagem, das 13h00 às 17h00; </li><li>Disponibilidade para atuar em loja (aula prática) na iPlace do xxxx, das 13h00 às 17h00; </li><li>Possuir Carteira de Trabalho Digital; </li><li>Para pessoas com deficiência (PCD) não é exigido mínimo de escolaridade ou limite de idade. </li> </ul><ul><li>Atendimento ao público;  </li><li>Auxiliar nas etapas de pré-venda, venda e pós-venda de produtos e serviços; </li><li>Fornecer e receber informações sobre produtos e serviços da iPlace;  </li><li>Conferir notas fiscais, faturas de pagamentos e boletos; </li><li>Registrar, consultar e atualizar dados utilizando sistema e ferramentas tecnológicas disponíveis;  </li><li>Atualizar e realizar cadastros dos clientes; </li><li>Listar, solicitar e receber mercadorias;  </li><li>Auxiliar na organização do estoque da loja;  </li><li>Repor mercadorias nos pontos de venda;  </li><li>Checar lista de alteração de preços e mercadorias em promoção. </li> </ul>",
-    "company": "iPlace - Apple Premium Reseller - Oficial",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387272__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-iplace&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz iplace - rio de janeiro/rj (carioca shopping)",
-    "description": "<ul><li>Ensino Médio completo ou em andamento; </li><li>Ter entre 15 e 18 anos de idade; </li><li>Disponibilidade para realizar o curso (aula teórica) no Senac ou Renapsi, voltado ao Programa de Aprendizagem, das 13h00 às 17h00; </li><li>Disponibilidade para atuar em loja (aula prática) na iPlace do xxxx, das 13h00 às 17h00; </li><li>Possuir Carteira de Trabalho Digital; </li><li>Para pessoas com deficiência (PCD) não é exigido mínimo de escolaridade ou limite de idade. </li> </ul><ul><li>Atendimento ao público;  </li><li>Auxiliar nas etapas de pré-venda, venda e pós-venda de produtos e serviços; </li><li>Fornecer e receber informações sobre produtos e serviços da iPlace;  </li><li>Conferir notas fiscais, faturas de pagamentos e boletos; </li><li>Registrar, consultar e atualizar dados utilizando sistema e ferramentas tecnológicas disponíveis;  </li><li>Atualizar e realizar cadastros dos clientes; </li><li>Listar, solicitar e receber mercadorias;  </li><li>Auxiliar na organização do estoque da loja;  </li><li>Repor mercadorias nos pontos de venda;  </li><li>Checar lista de alteração de preços e mercadorias em promoção. </li> </ul>",
-    "company": "iPlace - Apple Premium Reseller - Oficial",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387273__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-iplace&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - loja recife shopping",
-    "description": "<ul><li>Entre 16 e 22 anos </li><li>Estar cursando e/ou ser formado no Ensino Médio </li><li>Não é preciso ter nenhuma experiência de trabalho anterior </li> </ul><p><br></p><ul><li>Apoiar na organização da área de vendas (por tamanho, etiquetas, alarmes e exposição). </li><li>Apoiar na reposição da área de vendas, por meio de relatórios de abastecimento. </li><li>Apoiar em acolher nossos clientes, entender suas necessidades e oferecer nossa encomenda expressa para itens que não temos à pronta entrega. </li><li>Apoiar em garantir o encantamento dos nossos clientes, por meio das nossas experiências em loja (gôndolas, caixa rápido, provador inteligente). </li><li>Apoiar em receber e processar produtos para exposição na área de vendas. </li><li>Auxiliar em rotinas administrativas. </li> </ul><p><br></p>",
-    "company": "Centauro Talentos",
-    "city": "RECIFE",
-    "state": "PE",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387327__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RECIFE&geoID=7157",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz",
-    "description": "<ul><li>Ensino Médio Cursando ou Completo; </li><li>Idade entre 14 e 24 anos; </li><li>Pacote Office; </li> </ul><p><br></p><p>Vale a pena mencionar: Oportunidades para a cidade de Amparo - SP. </p><ul><li>Auxiliar nas rotinas de apoio da área; </li><li>Auxilio nos processos administrativos; </li><li>Organização de arquivos e documentos. </li> </ul>",
-    "company": "Grupo TIX",
-    "city": "AMPARO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387372__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=AMPARO&geoID=386",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - suporte técnico",
-    "description": "<ul><li>Cursando graduação em áreas relacionadas à tecnologia, como Ciência da Computação, Engenharia de Software ou áreas correlatas. </li><li>Disponibilidade para atuação em 6 horas por dia e 1 dia da semana em curso da instituição parceira. </li><li>Proatividade e interesse em aprender e resolver desafios técnicos. </li><li>Boa comunicação, tanto oral quanto escrita. </li><li>Vontade de melhorar os processos do time e ajudar a criar soluções. </li><li>Soft skills para interação com clientes e colegas de trabalho. </li><li>Familiaridade com HTML, CSS, JSON e Programação Estruturada. </li> </ul><ul><li>Suporte: Realizar o atendimento aos usuários do sistema de forma síncrona (chat) e assíncrona (tickets off e e-mail). </li><li  >Auxiliar no gerenciamento do suporte aos clientes, resolvendo tickets de acordo com os SLAs de atendimento estabelecidos. </li><li  >Contribuir para investigação de problemas e apresentação de soluções. </li><li  >Apoiar na parametrização de processos e/ou alterações em formulários conforme as regras de negócio fornecidas pelos clientes. </li><li  >Aprender sobre o produto para oferecer as melhores soluções, utilizando as ferramentas disponíveis. </li><li  >Auxiliar na realização de configurações low code. </li><li  >Participar de reuniões de acompanhamento de demandas com a supervisão da equipe. </li><li>Documentação: Ajudar na criação e atualização da documentação técnica relacionada aos processos, configurações e clientes, facilitando o acesso à informação para a equipe. </li><li>Colaboração: Colaborar com os times internos para resolução de problemas e aprimoramento dos processos. </li><li>Treinamentos: Participar de treinamentos internos e compartilhar conhecimento com a equipe. </li><li>Melhoria de processos: Ajudar a identificar e sugerir melhorias nos processos internos. </li> </ul>",
-    "company": "Aprova",
-    "city": "CASCAVEL",
-    "state": "PR",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387436__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=CASCAVEL&geoID=2075",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz (unidade administrativa - governança) - rio verde",
-    "description": "<p>- Ensino Médio completo ou cursando; </p><p>- Possuir Carteira de Trabalho (CTPS); </p><p>- Boa comunicação, organização e responsabilidade; </p><p>- Facilidade para trabalhar com computador e ferramentas básicas (Word, Excel); </p><p>- Vontade de aprender e crescer na área de governança ou administrativa. </p><ul><li>Apoiar na organização de arquivos físicos e digitais da área de governança; </li><li>Auxiliar no controle de planilhas com prazos e documentos; </li><li>Apoiar na preparação de materiais de reuniões (cópias, pastas, atas impressas, lista de presença); </li><li>Realizar tarefas administrativas de suporte à equipe de governança e à secretaria dos diretores e presidente; </li><li>Ajudar na rotina de registros, envio e acompanhamento de documentos internos; </li><li>Atuar com zelo, discrição e responsabilidade na rotina administrativa da Cooperativa. </li> </ul>",
-    "company": "Vem Ser Credi-Rural!",
-    "city": "RIO VERDE",
-    "state": "GO",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387440__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-unidade&location=RIO-VERDE&geoID=7386",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz administrativo - cd ba",
-    "description": "<ul><li>Desejável ensino médio completo; </li><li>Conhecimento pacote office será um diferencial. </li> </ul><ul><li>Realizar as atividades nas áreas administrativas, logística, expedição, dando suporte a Coordenação e equipe administrativa. </li> </ul>",
-    "company": "Cimed",
-    "city": "LAURO DE FREITAS",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387443__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=LAURO-DE-FREITAS&geoID=4835",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz administrativo - cd rn",
-    "description": "<ul><li>Desejável ensino médio completo; </li><li>Conhecimento pacote office será um diferencial. </li> </ul><p><br></p><ul><li>Realizar as atividades nas áreas administrativas, logística, expedição, dando suporte a Coordenação e equipe administrativa. </li> </ul><p><br></p>",
-    "company": "Cimed",
-    "city": "PARNAMIRIM",
-    "state": "RN",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387444__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=PARNAMIRIM&geoID=6305",
-    "tipo": ""
-  },
-  {
-    "title": "Programa jovem aprendiz- ingram micro - barueri",
-    "description": "<p>Programa que promove a inclusão social e profissional de jovens no mundo do trabalho. </p><p><br></p><p>Jovens cursando ou que que já tenham concluído Ensino médio ou técnico. </p><p>Jovens com idade entre 18 a 23 anos incompletos (Por motivos de insalubridade e/ou periculosidade e de tempo de contrato). </p><p>Documentos: RG/CPF/ Carteira de trabalho - Físico ou digital, Titulo de Eleitor - Físico ou digital - Desejável e Reservista para meninos. </p><p>Estudantes do Ensino Superior (Graduação ou Tecnólogo) não podem participar do Programa Aprendiz, pois já entram nos pré-requisitos do Programa de estágio. </p><p> Auxiliar os analistas nas campanhas internas - O aprendiz fará rotação entre as áreas para conhecimento e aprimoramento em cada uma das atividades envolvidas. 2. Auxilio aos analistas nas cotações. 3. Auxilio aos analistas na divulgações das ações internas. </p>",
-    "company": "Via de Acesso",
-    "city": "BARUERI",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387490__1953?utm_source=1953&utm_medium=feed&keyword=Programa-jovem-aprendiz&location=BARUERI&geoID=1016",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz administrativo (4)",
-    "description": "<p>Localidade: Centro - Rio de Janeiro/RJ </p><p><br></p><p>Horário de trabalho: 08h às 14h (6 horas diárias) </p><p><br></p><p><br></p><p><br></p><p>Requisitos Indispensáveis: </p><ul><li>Ensino Médio completo; </li><li>Ter entre 18 e 21 anos; </li><li>Conhecimento em Pacote Office. </li> </ul><p><br></p><p>Área: Recursos Humanos </p><p><br></p><p>ATRIBUIÇÕES: </p><p><br></p><ul><li>Apoio em reuniões semanais assegurando que papéis e responsabilidades definidos estejam sendo cumpridos e alinhamentos sejam feitos constantemente.  </li><li>Apoio no planejamento e desdobramentos estratégicos para equipe, assegurando o cumprimento das Políticas e Procedimentos da cia;  </li><li>Participar do desenvolvimento das soluções junto às áreas especialistas de RH, garantindo que elas sejam operacionalizadas pelos setores responsáveis; </li><li>Criar apresentações para a área e apoiar o time com as demandas; </li><li>Apoiar nas implementações de todos os programas de RH desenvolvidos nas respectivas áreas especialistas (R&S, T&D, Adm. de Pessoal, entre outras) acompanhando o desenvolvimento deles. </li><li>Suporte nos atendimentos aos colaboradores (internos e externos)   </li> </ul><p><br></p><br><p><br></p>",
-    "company": "CSN - Companhia Siderúrgica Nacional",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387500__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-administrativo&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz administrativo (4)",
-    "description": "<ul><li>Ensino Médio cursando ou completo; </li><li>Disponibilidade para atuar nos horários (07:30 às 13:45 ou 11:03 às 17:18); </li><li>Garotos acima de 18 anos: Obrigatório possuir a reservista. </li> </ul><p><br></p>",
-    "company": "Aurora Coop",
-    "city": "ARUJA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387672__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=ARUJA&geoID=704",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - hospital cardoso fontes",
-    "description": "<p>Ensino Médio Completo. </p><p>Ter no mínimo 18 anos completos. </p><p>Cumprir com as rotinas, normas e regulamentações da Instituição e Secretaria Municipal de Saúde, que sejam coerentes à função do Jovem Aprendiz. </p>",
-    "company": "SPDM/PAIS RIO DE JANEIRO",
-    "city": "RIO DE JANEIRO",
-    "state": "RJ",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387745__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=RIO-DE-JANEIRO&geoID=19",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz ( recepção)",
-    "description": "<ul><li>Ensino Médio Cursando; </li><li>Conhecimento em informática. </li> </ul><p  ><br></p><p  ><br></p><p  ><br></p><ul><li>Aprender atividades administrativas em geral nas diversas áreas da instituição, envolvendo: suporte administrativo, trabalhos de digitação, emissão e preenchimento de documentos, guias, controles diversos, organização e atualização de arquivos, conferencia de documentação e contas, atendimento ao público, recebimento, expedição e distribuição de correspondência e outras; </li><li>Manter o arquivo de sua área, devidamente atualizado e organizado, por ordem de assunto, cronológico ou alfabético, visando facilitar a localização de documentos, quando solicitado; </li><li>Atender ligações telefônicas, prestando esclarecimentos diversos e recepcionando pessoas que procuram a área; </li><li>Controlar e preparar requisição de materiais de consumo e requisições de manutenção, para atender as necessidades da área; </li><li>Desenvolver outras atividades conforme necessidade ou a critério do superior. </li> </ul>",
-    "company": "Hospital Geral de Pedreira - SPDM Afiliadas",
-    "city": "SAO PAULO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387809__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-recep%C3%A7%C3%A3o&location=SAO-PAULO&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz nike- curitiba",
-    "description": "<p  >O que você precisa para essa posição no jogo:  </p><ul><li>Ensino médio completo; </li><li>Habilidade para atendimento ao cliente; </li><li>Vontade de aprender e sede de crescimento. </li> </ul><p  >Sobre a posição no jogo: </p> <p  >A pessoa que ocupa a função de JOVEM APRENDIZ é a peça chave do nosso time, pois o campo tem que estar organizado para o jogo acontecer! </p> <p  >Essa pessoa é responsável por: </p><ul><li>Organizar a loja e mantê-la sempre preparada para os nossos clientes; </li><li>Atuar no campo de loja, na frente de caixa e também no estoque. </li> </ul>",
-    "company": "Fisia Talentos",
-    "city": "CURITIBA",
-    "state": "PR",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387858__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-nike&location=CURITIBA&geoID=2691",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz administrativo (toyota) - nova lima/mg",
-    "description": "<p><u>Se você: </u> </p><p><br></p><ul><li>Possui o ensino médio completo ou em curso; </li> </ul><p><br></p><p>O #GrupoNewChase é o seu lugar! </p><p><br></p><p><u>Será considerado um diferencial se você: </u> </p><p><br></p><ul><li>Possui conhecimento básico no Pacote Office (Excel, Word e Power Point). </li> </ul><ul><li>Elaborar planilhas e manter atualizadas com dados específicos do setor de atuação; </li><li>Manter a organização dos arquivos do setor; </li><li>Atender chamados e orientar colaboradores sobre demandas de baixa complexidade; </li><li>Realizar lançamento de documentos em sistema; </li><li>Atender a clientes e tirar dúvidas sobre os processos internos da instituição; </li><li>Executar outras tarefas que venham a ser delegadas pelo gestor da área; </li><li>Buscar o autodesenvolvimento contínuo, de forma a ampliar seu conhecimento técnico e incrementar sua capacidade de identificar oportunidades, através de participação em treinamentos formais e de estudo individual, a fim de aumentar sua eficiência e eficácia no trabalho; </li><li>Respeitar as necessidades, a integridade, as expectativas e a privacidade de nossos clientes, colegas, terceiros, fornecedores, comunidades, instituições, além de governos, visando garantir o cumprimento do Código de Ética do Grupo. </li> </ul>",
-    "company": "Grupo NewChase",
-    "city": "NOVA LIMA",
-    "state": "MG",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387873__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-administrativo&location=NOVA-LIMA&geoID=5851",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz - porto alegre/rs",
-    "description": "<ul><li>Conhecimento em Pacote Office; </li><li>Ser organizado; </li><li>Responsável; </li><li>Dinâmico; </li><li>Boa comunicação. </li> </ul><ul><li>Realizar o suporte operacional da área, apoiando assistentes, analistas e gestão do departamento; </li><li>Auxiliar nas rotinas administrativas através dos sistemas da área; </li><li>Atender demandas operacionais de organização de documentos e estoque. </li> </ul>",
-    "company": "Vem pra S.I.N.!",
-    "city": "PORTO ALEGRE",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387895__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-porto&location=PORTO-ALEGRE&geoID=6880",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<ul><li>Jovens entre 14 e 24 anos </li><li>Requisito: Ensino Médio Cursando ou Concluído </li><li>Desejável: Conhecimento em Informática (Pacote Office) e Habilidade com sistemas. </li><li>Cursar Superior em Administração ou correlatas é diferencial. </li> </ul><p><br></p><p>Na Iguá Saneamento, valorizamos a diversidade em todas as suas formas e promovemos uma cultura ética, respeitosa e inclusiva. Como empresa e como equipe, buscamos a equidade e acolhemos a pluralidade de identidades  de gênero, pessoas com deficiência (PcD), população LGBTQIAPN+, étnico-racial, religiosa e geracional. Acreditamos na força de cada pessoa para gerar transformação. Junte-se a nós nessa jornada de mudança. </p><ul><li>Apoio à todas as áreas administrativas da operação </li><li>Confecção de relatórios; </li><li>Atendimento ao cliente interno </li><li>Apoio na organização da loja de atendimento; </li><li>Executa outras tarefas compatíveis com as exigências para o exercício da função, mas todas as atividades são desenvolvidas com Supervisão; </li> </ul><p><br></p>",
-    "company": "Iguá Saneamento",
-    "city": "CUIABA",
-    "state": "MT",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387896__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=CUIABA&geoID=2659",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz em atendimento e vendas i serrinha/go",
-    "description": "O que esperamos de você: <ul><li>      Vontade genuína de aprender e crescer profissionalmente, aproveitando cada oportunidade de desenvolvimento; </li><li>      Boa comunicação, simpatia e disposição para lidar com o público de forma cordial e atenciosa; </li><li>      Proatividade para apoiar a equipe em diferentes tarefas e contribuir com um ambiente colaborativo; </li><li>      Organização para as atividades do dia a dia; </li><li>      Responsabilidade com compromissos, horários e com a jornada de aprendizagem teórica e prática; </li><li>      Facilidade para trabalhar em equipe e se adaptar a diferentes rotinas e demandas da loja; </li><li>      Interesse em construir uma base sólida de conhecimentos na área de vendas e atendimento ao cliente. </li> </ul>  Requisitos:<ul><li>      Escolaridade: Ter concluído o Ensino Médio; </li><li>      Disponibilidade: Para jornada de trabalho parcial. </li><li>      Habilidades: Boa comunicação, vontade de aprender, pro atividade e trabalho em equipe; </li><li>      Não é necessário ter experiência prévia. </li> </ul><ul><li>     Apoiar no atendimento ao cliente em loja; </li><li>     Ajudar na organização do ambiente de vendas e no estoque; </li><li>     Apoiar nas rotinas administrativas e operacionais da loja; </li><li>     Participar de treinamentos e atividades de aprendizagem. </li> </ul><p><br></p>",
-    "company": "Lojas Grupo Casas Bahia",
-    "city": "GOIANIA",
-    "state": "GO",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387941__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-em-atendimento&location=GOIANIA&geoID=3432",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz assistente de rh campina grande pb",
-    "description": "<p><br></p><p>Para embarcar nessa jornada de desenvolvimento, é importante que você atenda aos seguintes requisitos: </p><p><br></p><ul><li> Disponibilidade no turno da manhã  as atividades serão realizadas nesse período, então é essencial ter essa flexibilidade. </li><li> Estar cursando Administração, Recursos Humanos ou áreas correlatas  valorizamos quem está em constante aprendizado e alinhado com a área. </li><li> Conhecimentos básicos em informática  principalmente Word, Excel e e-mail corporativo. </li><li> Boa comunicação, proatividade e vontade de crescer  aqui, essas qualidades fazem toda a diferença! </li> </ul><p>O Jovem Aprendiz de Recursos Humanos atua dando suporte às rotinas administrativas do setor, desenvolvendo habilidades práticas enquanto aprende sobre os processos internos da área. Suas principais atribuições incluem: </p><p><br></p><ul><li>Organização de documentos físicos e digitais de colaboradores; </li><li>Auxílio na atualização de cadastros e planilhas de controle (ponto, benefícios, exames, etc.); </li><li>Atendimento aos colaboradores, prestando informações básicas sobre RH (como folha de ponto, entrega de documentos, etc.); </li><li>Suporte em processos seletivos, como triagem de currículos e agendamento de entrevistas; </li><li>Acompanhamento de treinamentos e integrações, registrando presenças e apoio logístico. </li> </ul>",
-    "company": "Redepharma",
-    "city": "CAMPINA GRANDE",
-    "state": "PB",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6387998__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-assistente&location=CAMPINA-GRANDE&geoID=1706",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz",
-    "description": "<p>Formação Acadêmica </p><ul><li>Ensino médio completo ou cursando no período noturno. </li> </ul><p><br></p><p>Necessário </p><ul><li>Noções do Pacote Office; </li><li>Facilidade com ferramentas digitais/ tecnologias. </li> </ul><p><br></p><p>Habilidades Desejadas </p><ul><li>Boa comunicação; </li><li>Organização e proatividade para lidar com múltiplas tarefas. </li> </ul><p><br></p><p>Atitudes Esperadas </p><ul><li>Comprometimento com horários e prazos estabelecidos; </li><li>Responsabilidade ao lidar com equipamentos e informações corporativas; </li><li>Trabalho em equipe, com espírito colaborativo e vontade de crescer profissionalmente. </li> </ul><p><br></p><p>Estamos em busca de jovens que tenham concluído ou estejam cursando o Ensino Médio e que possuam disponibilidade para atuar em nossa filial de Salvador. </p><p><br></p><p>Se você deseja dar o primeiro passo na sua carreira profissional e aprender em um ambiente dinâmico, inovador e colaborativo, venha fazer parte dos nossos times na FTD Educação! Essa pode ser a oportunidade que você estava esperando. </p>",
-    "company": "#VempraFTD",
-    "city": "SALVADOR",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388004__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=SALVADOR&geoID=7530",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz em gente&gestão",
-    "description": "<ul><li>Ensino médio cursando ou completo é essencial; </li><li>Ter entre 14 e 24 anos (para pessoas com deficiência, não há limitação de idade) é essencial; </li><li>Infomática básica é essencial; </li> </ul><ul><li>Apoio na dondução de processos seletivos, desde a divulgação de vagas até a triagem e seleção de novos colaboradores; </li><li>Prestação de suporte diário ao time, respondendo dúvidas e oferecendo assistência em processos administrativos e operacionais incluindo a abertura de tickets e chamados; </li><li>Apoio na apresentação da integração institucional, promovendo uma melhor adaptação do colaborador à cultura e valores da empresa; </li><li>Suporte ao programa de estágio; </li><li>Suporte a gestão de contratos de estágio; </li><li>Abertura de pedidos de pagamentos de notas fiscais; </li> </ul>",
-    "company": "Britvic Brasil",
-    "city": "SAO PAULO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388073__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-em&location=SAO-PAULO&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz - porto alegre/rs",
-    "description": "<p><u>Para atuar conosco você precisa:  </u> </p><p><br></p><ul><li>Ensino médio completo ou cursando </li><li>Conhecimento pacote office </li><li>Disponibilidade para atuar no formato presencial </li> </ul><p>Você tem vontade de aprender e se desenvolver como um profissional de excelência, aprendendo na prática? Na Unidas você terá a oportunidade de aprender com profissionais qualificados e experientes, realizando atividades que irão de fato contribuir para sua formação profissional. Confira os requisitos abaixo e venha fazer parte de nosso time! </p><p><br></p><p>Aqui na Unidas você terá como responsabilidades : </p><p><br></p><ul><li>Irá auxiliar nas rotinas do setor, envolvendo o atendimento ao cliente, digitação e acompanhamento de relatórios, imputs no sistema, elaboração de planilhas e controle de arquivos.  </li> </ul><p><br></p><p>#LI-CG1 </p>",
-    "company": "Unidas",
-    "city": "PORTO ALEGRE",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388120__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-porto&location=PORTO-ALEGRE&geoID=6880",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz (6)",
-    "description": "<ul><li>Ter entre 17 e 21 anos; </li><li>Estar cursando ou ter concluído o Ensino Médio; </li><li>Ter conhecimento básico em Pacote Office (Word, Excel, PowerPoint); </li><li>Ter iniciativa, proatividade e boa comunicação; </li><li>Ter capacidade de organização e solução de problemas; </li><li>Prioridade para jovens em situação de vulnerabilidade social e oriundos da rede pública de ensino. </li> </ul><ul><li>Apoiar atividades administrativas; </li><li>Organizar documentos, planilhas e arquivos; </li><li>Auxiliar no atendimento interno e/ou externo; </li><li>Apoiar rotinas operacionais conforme o plano de aprendizagem; </li><li>Participar de treinamentos e capacitações oferecidos pela empresa; </li> </ul>",
-    "company": "GrupoSC Distribuidora de Medicamentos",
-    "city": "SAO PAULO",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388132__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=SAO-PAULO&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz operador de caixa (327)",
-    "description": "<p>Formação acadêmica mínima: ensino médio completo. </p><p>Faixa etária: 18 anos e máximo de 22 anos e 6 meses na contratação. </p><p>Experiência: não é exigida experiência profissional. </p><p>Importante: O(a) Jovem Aprendiz não poderá ser Aprendiz por mais de uma vez na mesma função e no curso de aprendizagem. </p><p> Atender clientes conferindo suas compras; </p><p> Finalizar a compra com a efetividade do pagamento através do(a) cliente; </p><p> Oferecer aos clientes demais serviços (ex. recarga de celular e sacola retornável); </p><p  > Abertura, fechamento do caixa e sangria. </p>",
-    "company": "Assaí Atacadista - O atacadista com 50 anos de tradição! #VemserAssaí",
-    "city": "HORTOLANDIA",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388139__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-operador-de&location=HORTOLANDIA&geoID=3675",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem aprendiz - inec - ba",
-    "description": "<p>Para fazer parte do nosso time é necessário ter entre 14 e 24 anos e estar cursando o ensino médio, ou já ter concluído essa etapa. </p><p>Atividades desse cargo: </p><p><br></p><ul><li>Atendimento aos clientes; </li><li>Controle e organização de arquivos; </li><li>Auxiliar nas atribuições da equipe de trabalho. </li> </ul>",
-    "company": "Traga seu talento para o Inec",
-    "city": "LIVRAMENTO DE NOSSA SENHORA",
-    "state": "BA",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388163__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=LIVRAMENTO-DE-NOSSA-SENHORA&geoID=4899",
-    "tipo": ""
-  },
-  {
-    "title": "Animale | jovem aprendiz loja | moinhos shopping",
-    "description": "<ul><li>É necessário ter entre 14 e 24 anos (a idade máxima não se aplica a pessoas com deficiência); </li><li>Ter terminado o ensino médio ou estar cursando no período noturno. </li> </ul><ul><li>Fornecer informações sobre produtos e serviços aos clientes; </li><li>Atender os clientes informando preços e tirando dúvidas gerais; </li><li>Comunicar ofertas, promoções e formas de pagamento aos clientes; </li><li>Acompanhar os clientes até o caixa para finalizar a compra; </li><li>Requisitar reposição de produtos e mercadorias; </li><li>Fazer levantamento de estoque, para fins de reposição; </li><li>Verificar a existência de produtos avariados no depósito e/ou estoque; </li><li>Separar e organizar mercadorias para contagem e balanço de estoque; </li><li>Receber e conferir mercadorias mediante nota fiscal e pedido; </li><li>Colocar etiquetas de identificação e preços nas gôndolas e/ou prateleiras; </li><li>Repor mercadorias no ponto de vendas; </li><li>Recolher mercadorias violadas, fora de lugar ou com validade vencida; </li><li>Montar pontos de exposição em lojas e mercados; </li><li>Decorar e fixar material promocional nos pontos de venda; </li><li>Distribuir amostras e oferecer produtos para degustação; </li><li>Higienizar áreas de preparação e exposição de produtos. </li> </ul>",
-    "company": "ANIMALE",
-    "city": "PORTO ALEGRE",
-    "state": "RS",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388182__1953?utm_source=1953&utm_medium=feed&keyword=Animale-jovem&location=PORTO-ALEGRE&geoID=6880",
-    "tipo": ""
-  },
-  {
-    "title": "Animale | jovem aprendiz loja | manauara",
-    "description": "<ul><li>É necessário ter entre 14 e 24 anos (a idade máxima não se aplica a pessoas com deficiência); </li><li>Ter terminado o ensino médio ou estar cursando no período noturno. </li> </ul><ul><li>Fornecer informações sobre produtos e serviços aos clientes; </li><li>Atender os clientes informando preços e tirando dúvidas gerais; </li><li>Comunicar ofertas, promoções e formas de pagamento aos clientes; </li><li>Acompanhar os clientes até o caixa para finalizar a compra; </li><li>Requisitar reposição de produtos e mercadorias; </li><li>Fazer levantamento de estoque, para fins de reposição; </li><li>Verificar a existência de produtos avariados no depósito e/ou estoque; </li><li>Separar e organizar mercadorias para contagem e balanço de estoque; </li><li>Receber e conferir mercadorias mediante nota fiscal e pedido; </li><li>Colocar etiquetas de identificação e preços nas gôndolas e/ou prateleiras; </li><li>Repor mercadorias no ponto de vendas; </li><li>Recolher mercadorias violadas, fora de lugar ou com validade vencida; </li><li>Montar pontos de exposição em lojas e mercados; </li><li>Decorar e fixar material promocional nos pontos de venda; </li><li>Distribuir amostras e oferecer produtos para degustação; </li><li>Higienizar áreas de preparação e exposição de produtos. </li> </ul>",
-    "company": "ANIMALE",
-    "city": "MANAUS",
-    "state": "AM",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388183__1953?utm_source=1953&utm_medium=feed&keyword=Animale-jovem&location=MANAUS&geoID=5053",
-    "tipo": ""
-  },
-  {
-    "title": "Animale | jovem aprendiz loja | iguatemi fortaleza",
-    "description": "<ul><li>É necessário ter entre 14 e 24 anos (a idade máxima não se aplica a pessoas com deficiência); </li><li>Ter terminado o ensino médio ou estar cursando no período noturno. </li> </ul><ul><li>Fornecer informações sobre produtos e serviços aos clientes; </li><li>Atender os clientes informando preços e tirando dúvidas gerais; </li><li>Comunicar ofertas, promoções e formas de pagamento aos clientes; </li><li>Acompanhar os clientes até o caixa para finalizar a compra; </li><li>Requisitar reposição de produtos e mercadorias; </li><li>Fazer levantamento de estoque, para fins de reposição; </li><li>Verificar a existência de produtos avariados no depósito e/ou estoque; </li><li>Separar e organizar mercadorias para contagem e balanço de estoque; </li><li>Receber e conferir mercadorias mediante nota fiscal e pedido; </li><li>Colocar etiquetas de identificação e preços nas gôndolas e/ou prateleiras; </li><li>Repor mercadorias no ponto de vendas; </li><li>Recolher mercadorias violadas, fora de lugar ou com validade vencida; </li><li>Montar pontos de exposição em lojas e mercados; </li><li>Decorar e fixar material promocional nos pontos de venda; </li><li>Distribuir amostras e oferecer produtos para degustação; </li><li>Higienizar áreas de preparação e exposição de produtos. </li> </ul>",
-    "company": "ANIMALE",
-    "city": "FORTALEZA",
-    "state": "CE",
-    "url": "https://br.whatjobs.com/coopob__cpl___1139_6388184__1953?utm_source=1953&utm_medium=feed&keyword=Animale-jovem&location=FORTALEZA&geoID=3263",
-    "tipo": ""
-  },
-  {
     "title": "Animale | jovem aprendiz  | auxiliar administrativo",
     "description": "<ul><li>É necessário ter entre 14 e 24 anos (a idade máxima não se aplica a pessoas com deficiência); </li><li>Ter terminado o ensino médio ou estar cursando no período noturno. </li> </ul><ul><li>Apoiar na gestão de estoque de materiais de escritório e copa; </li><li>Auxiliar no contato com fornecedores e prestadores de serviços (limpeza, manutenção, segurança); </li><li>Acompanhar solicitações de manutenção no escritório; </li><li>Ajudar na organização de espaços para reuniões e eventos internos. </li><li>Controle de planilhas simples e suporte em relatórios; </li><li>Auxiliar no processo de recrutamento e seleção (triagem de currículos, agendamento de entrevistas); </li><li>Acompanhar e atualizar cadastros de funcionários; </li> </ul>",
     "company": "ANIMALE",
@@ -3978,21 +3015,111 @@
     "tipo": ""
   },
   {
+    "title": "Aprendiz  repositor de mercadorias (127)",
+    "description": "<p>Porque Trabalhar Conosco? </p><p>O grupo Savegnago oferece um ambiente de trabalho estimulante, oportunidades de crescimento profissional e uma equipe acolhedora que valoriza a colaboração e a inovação. </p><p>O que você irá entregar:   </p><p>O (a) Aprendiz  Repositor de Mercadorias irá aprender as rotinas dos departamentos em que passar (Administrativo; Frente de Caixa; Atendimento da Padaria, FLV; Área de Vendas).Irá frequentar o curso teórico oferecido em complemento à aprendizagem prática; </p><p>Responsável por:  </p><ul><li>Aprender e executar reposição, rodízio (método PVPS) e organização de mercadorias; </li><li>Aprender e acompanhar as alterações de preços (etiquetas) dos produtos nas gôndolas; </li><li>Aprender a reconhecer e separar mercadorias fora das condições de venda; </li><li>Aprender sobre e organizar produtos conforme layout da loja; </li><li>Aprender a identificar e separar documentos relacionados a funcionários, relativos a férias, admissão, demissão, afastamento e distribuir ao responsável ou arquivar quando necessário; </li><li> Aprender e acompanhar, juntamente com a ADM, prazos e vencimentos de benefícios (convênios e vales transportes) dos funcionários; </li><li>Auxiliar no recolhimento de carrinhos/cestinhas deixados no estacionamento; </li><li>Compreender os procedimentos gerais de todos os setores da unidade; </li> </ul><p>Estamos em busca de pessoas que possuam:  </p><ul><li>Cursando ensino médio </li> </ul><p>Onde você irá trabalhar?  </p><p>Savegnago Supermercados  </p><p>Nossa jornada de trabalho:   </p><p>4 horas diárias </p><p>Todas as oportunidades estão disponíveis para pessoas com deficiência (PcD). </p><p><br></p>",
+    "company": "SAVEGNAGO SUPERMERCADOS LTDA",
+    "city": "RIBEIRAO PRETO",
+    "state": "SP",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401311__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-repositor&location=RIBEIRAO-PRETO&geoID=7263",
+    "tipo": ""
+  },
+  {
+    "title": "Aprendiz administrativo (37)",
+    "description": "<p>Descrição da vaga </p><p>Estamos à procura de um(a) Aprendiz Administrativo para executar serviços de apoio nas áreas administrativas. Tratar de documentos variados, cumprindo todo o procedimento e fluxo necessário de acordo com o setor envolvido. Além de elaborar planilhas, apresentações, preencher planilhas cumprindo as orientações da área. </p><p>Se você é um jovem talento, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar! </p><p>Vamos velejar rumo ao futuro! #VemSerBrisanet <br>Como será o seu dia a dia?<br>- Vivenciar a identidade organizacional do Grupo Brisanet;<br>- Preparar relatórios, formulários ou planilhas, conforme solicitações;<br>- Alimentar indicadores da área, quando necessário;<br>- Participar ativamente das reuniões e compromissos da organização, quando solicitado;<br>- Utilizar os equipamentos de segurança individual e coletiva, quando necessário;<br>- Executar demais atividades correlatas ao cargo, segundo necessidades da área e direcionamento da liderança.<br>- Auxiliar o supervisor nos processos administrativos do setor;<br>- Acompanhar recursos materiais e financeiros, solicitando troca quando necessário;<br>- Realizar acompanhamento de relatórios;<br>- Acompanhar pagamentos de serviços prestados à empresa;<br>- Realizar atendimento a clientes internos e externos;<br>- Realizar controle de atestados, faltas, comissões e férias ao Departamento Pessoal.<br>O que buscamos para esta oportunidade: </p><p>- Ter entre 14 e 24 anos;<br>- Estar cursando Ensino Fundamental ou Médio;<br>- Deve estar matriculado em instituições qualificadas para ministrar cursos de aprendizagem.<br>Será considerado um diferencial:<br>- Experiência de 1 ano como aprendiz/estagiário;<br>- Ferramentas Google (Planilhas, Documentos).<br>No Grupo Brisanet você vai encontrar:<br>- Cultura de trabalho que respeita e valoriza as pessoas;<br>- Eventos internos que abordam temas diversos;<br>- Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;<br>- Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!;<br>- Alimentação (Sede via Refeitório e Filiais via Alelo);<br>- Descontos de até 50% nos serviços Brisanet de Internet e BrisaMusic;<br>- Descontos em Instituições de Ensino Superior de até 60%. </p>",
+    "company": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+    "city": "PEREIRO",
+    "state": "CE",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401334__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-administrativo&location=PEREIRO&geoID=6531",
+    "tipo": ""
+  },
+  {
+    "title": "Aprendiz de tecnologia da informação",
+    "description": "<p>Descrição da vaga </p><p>Estamos à procura de um(a) Aprendiz de Tecnologia da Informação para executar serviços de apoio nas áreas administrativas. Tratar de documentos variados, cumprindo todo o procedimento e fluxo necessário de acordo com o setor envolvido. Além de elaborar planilhas, apresentações, preencher planilhas cumprindo as orientações da área. </p><p>Se você é um jovem talento, que encanta seus clientes e possui senso de propriedade, a Brisanet é o seu lugar! </p><p>Vamos velejar rumo ao futuro! #VemSerBrisanet <br>Como será o seu dia a dia?<br>- Vivenciar a identidade organizacional do Grupo Brisanet;<br>- Preparar relatórios, formulários ou planilhas, conforme solicitações;<br>- Alimentar indicadores da área, quando necessário;<br>- Participar ativamente das reuniões e compromissos da organização, quando solicitado;<br>- Utilizar os equipamentos de segurança individual e coletiva, quando necessário;<br>- Executar demais atividades correlatas ao cargo, segundo necessidades da área e direcionamento da liderança.<br>- Auxiliar o supervisor nos processos administrativos do setor;<br>- Acompanhar recursos materiais e financeiros, solicitando troca quando necessário;<br>- Realizar acompanhamento de relatórios;<br>- Acompanhar pagamentos de serviços prestados à empresa;<br>- Realizar atendimento a clientes internos e externos;<br>- Realizar controle de atestados, faltas, comissões e férias ao Departamento Pessoal.<br>O que buscamos para esta oportunidade: </p><p>- Ter entre 14 e 24 anos;<br>- Estar cursando Ensino Fundamental ou Médio;<br>- Deve estar matriculado em instituições qualificadas para ministrar cursos de aprendizagem.<br>Será considerado um diferencial:<br>- Experiência de 1 ano como aprendiz/estagiário;<br>- Ferramentas Google (Planilhas, Documentos).<br>No Grupo Brisanet você vai encontrar:<br>- Cultura de trabalho que respeita e valoriza as pessoas;<br>- Eventos internos que abordam temas diversos;<br>- Meio colaborativo que valoriza o desenvolvimento pessoal e profissional;<br>- Ambiente horizontal e vertical, ou seja, você é o protagonista de sua carreira!;<br>- Alimentação (Sede via Refeitório e Filiais via Alelo);<br>- Descontos de até 50% nos serviços Brisanet de Internet e BrisaMusic;<br>- Descontos em Instituições de Ensino Superior de até 60%. </p>",
+    "company": "BRISANET SERVICOS DE TELECOMUNICACOES S.A",
+    "city": "PAU DOS FERROS",
+    "state": "RN",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401370__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-de-tecnologia&location=PAU-DOS-FERROS&geoID=6382",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem aprendiz - alegrete/rs",
+    "description": "<p>Sobre nós: </p><p>A Argenta é uma empresa brasileira com uma longa história. Fundada em 1985, pelosirmãos Neco e Deunir Argenta, consolidou-se como uma referência no setor de varejo decombustíveis e lojas de conveniência no Brasil. </p><p>Nossa estrutura </p><p>Hoje, somos mais de 5,5 mil funcionários atuando em nove empresas que fazem parte donosso ecossistema: Sim Rede de Postos, Sim Distribuidora, Sim Lubrificantes, Querodiesel,Charrua, A27, Aiva, Sim Aviação e Luiz Argenta. </p><p>Visão de Futuro </p><p>A Argenta busca constantemente reinventar-se e superar desafios, com a visão de construirum futuro melhor para seus funcionários, clientes e comunidade. </p><p>Somos um ecossistema sólido, com uma cultura forte e uma visão de futuro promissora. Buscamos talentos que queiram percorrer conosco este caminho. </p><p>Se você possui espírito de servir, de fazer sempre o melhor, de encantar quem está ao seu redor e é movido por desafios, a Argenta é o seu lugar e a oportunidade abaixo é para você! </p><p>Estamos com a oportunidade de Jovem Aprendiz, na Querodiesel na cidade de Alegrete/RS </p><p>Atividades: </p><ul><li>Apoio em rotinas administrativas; </li> </ul><ul><li>Organização de documentos; </li> </ul><ul><li>Atendimento interno; </li> </ul><p>Requisitos: </p><ul><li>Idade entre 18 e 24 anos;  </li><li>Disponibilidade para o turno da Manhã (08 às 12h); </li> </ul><ul><li>Estar cursando ou ter concluído o Ensino Médio; </li> </ul><ul><li>Conhecimento básico em informática; </li> </ul><ul><li>Vontade de aprender e se desenvolver profissionalmente; </li> </ul><ul><li>Vale transporte; </li> </ul>",
+    "company": "SIM REDE DE POSTOS LTDA",
+    "city": "ALEGRETE",
+    "state": "RS",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401377__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=ALEGRETE&geoID=208",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem aprendiz - filial 22",
+    "description": "Sobre a vaga:<p>Oportunidades para Jovem Aprendiz! </p><p>#Juntos e Unidos Somos Melhores! E para alcançar nossopotencial ao máximo buscamos por pessoas com alta energia, colaborativas,comprometidas e que busquem por excelência!! </p><p>Se identificou? Inscreva-se! Queremos conhecer você!  </p><p>FAÇA PARTE, CRESÇA JUNTO!  </p><p><br></p>Principais atribuições:<ul><li>Atender os clientes; </li><li>Auxiliar na organização da abertura da loja; </li><li>Empacotar os produtos, acondicionando em sacolas, caixas de papelão; </li><li>Organizar carrinhos de compras de frente de caixa e estacionamento; </li><li>Zelar pela limpeza e organização do seu local de trabalho; </li><li>Executar tarefas diversas de aprendizagem conforme demanda do setor. </li> </ul><p><br></p>Requisitos obrigatórios:<ul><li>Cursando Ensino Médio;  </li><li>Curso técnico de aprendizagem.  </li> </ul><p><br></p>Benefício:<ul><li>Vale Transporte.  </li> </ul><p><br></p><p><br></p>",
+    "company": "KOCH HIPERMERCADO SA",
+    "city": "BARRA VELHA",
+    "state": "SC",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401461__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=BARRA-VELHA&geoID=962",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem aprendiz| nações shopping | criciúma",
+    "description": "<p>Cargo: Jovem Aprendiz </p><p  >Descrição da Vaga </p><p  >Com um projeto arquitetônico arrojado, o Nações é considerado o gigante do sul catarinense, sendo o maior shopping da região. Integra a rede de shoppings do Grupo Almeida Junior, que nasceu com a convicção de tornar sonhos em realidade e transformar cidades e regiões em oportunidades únicas que impactam positivamente a vida das pessoas. Superar desafios e oferecer o melhor em cada novo empreendimento é o nosso grande desafio, para o qual contamos com uma equipe diferenciada, campeã, comprometida e disposta a buscar o que, aparentemente, é impossível.  </p><p  >Já somos a maior empresa de shopping centers do Sul do Brasil e detemos 71% do market share do Estado, o que nos orgulha muito e aumenta nossa responsabilidade junto aos nossos lojistas, consumidores, parceiros e clientes. Sonhamos e realizamos voos altos e vamos continuar empreendendo com muita paixão para realizar sempre mais.   </p><p  >Junte-se ao Grupo Almeida Junior no Nações Shopping, e faça parte de uma equipe comprometida em transformar sonhos em realidade!  </p><p>Principais Responsabilidades: </p><ul><li>Realizar atividades de apoio aos Departamentos Administrativos, em todas as atividades inerentes ao setor; </li><li>Auxiliar na digitação de planilhas e digitalização de documentos; </li><li>Realizar pesquisas/ contatos  conforme solicitação da empresa; </li><li>Prestar apoio no arquivo e organização  de documentos  ativos e inativos. </li> </ul><p>Requisitos: </p><ul><li>Estudante do Ensino Médio ou concluído; </li><li>Conhecimento em internet e no pacote office; </li> </ul><p>Benefícios: </p><ul><li>Vale transporte; </li><li>Viva Bem; </li><li>Seguro de vida; </li><li>Bônus anual. </li> </ul>",
+    "company": "Almeida Junior",
+    "city": "CRICIUMA",
+    "state": "SC",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401674__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz-na%C3%A7%C3%B5es&location=CRICIUMA&geoID=2587",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz TI",
+    "description": "<p>Estamos em busca de um Jovem Aprendiz para atuar em nosso setor de Tecnologia. Essa é uma ótima oportunidade para quem deseja iniciar a carreira na área de TI, adquirindo experiência prática em um ambiente dinâmico e de constante aprendizado. </p> <p>Atividades: </p><ul><li><p>Apoiar o time no atendimento e suporte aos colaboradores; </p> </li><li><p>Ajudar na instalação e configuração de softwares e equipamentos; </p> </li><li><p>Auxiliar no controle de acessos e manutenções básicas; </p> </li><li><p>Organizar documentos e processos internos da área de tecnologia. </p> </li> </ul> <p>Requisitos: </p><ul><li><p>Ter entre 14 e 24 anos; </p> </li><li><p>Estar cursando ensino médio (turno noite) ou ter concluído; </p> </li><li><p>Conhecimento básico em informática (Pacote Office, internet, sistemas operacionais); </p> </li><li><p>Interesse em aprender e se desenvolver na área de tecnologia; </p> </li><li><p>Boa comunicação, organização e proatividade. </p> </li> </ul> <p>Diferenciais (não obrigatórios): </p><ul><li><p>Curso técnico ou introdutório em informática, programação ou redes; </p> </li> </ul> <p>Oferecemos: </p><ul><li><p>Contrato de aprendizagem conforme a Lei da Aprendizagem; </p> </li><li><p>Sálario </p> </li><li><p>Vale Alimentação </p> </li><li>Vale-transporte; </li><li><p>Possibilidade de crescimento e desenvolvimento profissional. </p> </li> </ul> <p>Local: Suzano/SP<br>Horário: 10:00 as 17:00 com 1 hora de almoço </p>",
+    "company": "Grupo Colina",
+    "city": "SUZANO",
+    "state": "SP",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401712__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-TI&location=SUZANO&geoID=8892",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz",
+    "description": "2. MISSÃO DO CARGO <p  >Garantir a realização das demandas direcionadas pelos auxiliares de faturamento, dando tratativa as montagem e conferências de prontuários de acordo com a solicitação da auditoria. </p><p  ><br></p>3. PRINCIPAIS ATRIBUIÇÕES<p><br></p><p><br></p><p>Realizar as demandas operacionais do setor de acordo com o direcionamento dos auxiliares de faturamento;  </p><p>Garantir que todos os documentos estejam arquivados corretamente e sejam facilmente acessíveis;  </p><p>No processo de montagem dos prontuários verificam se tem algum documento necessário que está faltando e solicitam ao Setor Responsável para as devidas providências. Também verificam se existe rasuras ou ausência de preenchimento dos mesmos e informam as necessidades de ajustes; </p><p> Realizam o arquivamento dos prontuários e encaminhamento para a empresa de guarda, com o lançamento em rede dos controles de localização dos prontuários enviados para arquivo; </p><p> Manter a comunicação e relacionamento cordial e afetivo com os clientes internos, visando assegurar a fluidez no processo de montagem e guarda dos prontuários, além de possibilitar a resolução rápida e colaborativa de problemas. </p><p  ><br></p><p><br></p>4. REQUISITOS NECESSÁRIOS<p  ><br></p>FORMAÇÃO ACADÊMICA Ensino médio ESPECIALIZAÇÃO (Pós | MBA | Mestrado | Doutorado)Não se aplicaREGISTRO E HABILITAÇÃO NO CONSELHONão se aplicaTEMPO DE EXPERIÊNCIA0 a 1 ano <p  ><br></p>5. REQUISITOS COMPLEMENTARES<br><p  ><br></p> <p  ><br></p><p  ><br></p>6. COMPETÊNCIAS COMPORTAMENTAIS<p  ><br></p>TIPO DE COMPETÊNCIAAÇÃO ESPERADA NA DEMONSTRAÇÃO DA COMPETÊNCIALIDERANÇA ENGAJADORANão se aplicaCOMUNICAÇÃO E RELACIONAMENTO INTERPESSOALSempreINICIATIVA E PLANEJAMENTOSempreADAPTAÇÃO A MUDANÇASempreIDENTIFICAÇÃO COM A ORGANIZAÇÃOSempreORIENTAÇÃO PARA O CLIENTEFrequentementeOTIMIZAÇÃO PARA OS RESULTADOSSempreCOOPERAÇÃOSempreOUTRAS: Foco, organização, proatividade e agilidade<p><br></p>",
+    "company": "Solar Cuidados",
+    "city": "RIO DE JANEIRO",
+    "state": "RJ",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401737__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=RIO-DE-JANEIRO&geoID=19",
+    "tipo": ""
+  },
+  {
+    "title": "Aprendiz para área de suporte técnico",
+    "description": "<p>Buscamos jovens a partir de 19 anos que se identifiquem com as rotinas da área de Tecnologia para apoiar nas atividades da área de Suporte Técnico ao cliente. </p> <p>Principais atividades: </p> <ul> <li>Auxiliar na produção de documentos diversos </li> <li>Atender chamados utilizando a ferramenta Zendesk </li> <li>Criar dashboard utilizando ferramentas de mercado </li> <li>Apoiar em outras atividades da área </li>  </ul> <p>Requisitos: </p> <ul> <li>Cursando graduação ou curso técnico em Sistemas da Informação ou áreas correlatas </li> <li>Usuário pacote office, Windows e Linux </li>  </ul> <p>Horáiro de trabalho: de segunda a sexta- feira das 9h às 15h </p> <p>Pacote de remuneração: </p> <ul> <li>Bolsa auxílio </li> <li>Vale refeição de R$ 25,00/dia </li> <li>Vale alimentação de R$ 212,00/ mês </li> <li>Assistência Médica  </li> <li>Assistência Odontológica - opcional </li> <li>Seguro de vida </li> <li>TotalPass </li> <li>Day off no dia do aniversário </li>  </ul>",
+    "company": "TRANSDATA SOLUCOES EM MOBILIDADE LTDA",
+    "city": "CAMPINAS",
+    "state": "SP",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401812__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-para-%C3%A1rea&location=CAMPINAS&geoID=1713",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz",
+    "description": "<p>Deve estar devidamente matriculado, cursando ensino fundamental ou médio (ou ter concluído o ensino médio).<br>Boa comunicação, proatividade e espirito de equipe.<br>Desejável: Noções básicas de informática<br>Principais Responsabilidades:<br>Auxiliar nas demandas de logística e Administrativo. </p>",
+    "company": "BRASIL MEDICAMENTOS EIRELI",
+    "city": "MACAPA",
+    "state": "AP",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401868__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=MACAPA&geoID=4972",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem aprendiz - logística",
+    "description": "<p>Áreas: </p> <ul> <li> <p>Logística  </p>  </li> <li> <p>Promotor de vendas </p>  </li>  </ul> <p>Requisitos: </p> <ul> <li> <p>Ter entre 18 e 21 anos </p>  </li> <li> <p>Estar cursando ou ter concluído o ensino médio </p>  </li> <li> <p>Interesse em aprender e se desenvolver </p>  </li> <li> <p>Boa comunicação e disposição para trabalhar em equipe </p>  </li>  </ul> <p>Oferecemos: </p> <ul> <li> <p>Bolsa auxílio </p>  </li> <li> <p>Vale transporte </p>  </li> <li> <p>Curso de aprendizagem teórica em parceria com instituição formadora </p>  </li> <li> <p>Possibilidade de efetivação </p>  </li>  </ul>",
+    "company": "ASA BRANCA INDL. COML. E IMPORTADORA LTDA",
+    "city": "NOSSA SENHORA DO SOCORRO",
+    "state": "SE",
+    "url": "https://br.whatjobs.com/coopob__cpl___1139_6401941__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-aprendiz&location=NOSSA-SENHORA-DO-SOCORRO",
+    "tipo": ""
+  },
+  {
     "title": "Auxiliar Administrativo Aprendiz",
     "description": "<p><b> Já pensou em fazer parte de um time que contribui para o bem-estar das pessoas através da química? Esse é o propósito da Indorama Ventures!  </b> <p> Buscamos profissionais <b> inovadores, colaborativos e dispostos a assumirem o desafio de atuar em uma empresa em plena expansão internacional  </b> . Somos flexíveis, parceiros e acreditamos que o impacto das nossas ações vai muito além da indústria química.  </p> <p> Prezamos por um ambiente de trabalho inclusivo, plural e que valoriza o respeito, a ética e a igualdade de oportunidades para todos.  </p> <p><b> O que buscamos:  </b> </p> <p><b> Aprendiz  </b> para atuar com rotinas administrativas.  </p> <p><b> O que esperamos de você:  </b> </p><ul><li> Bom relacionamento interpessoal;  </li><li> Capacidade de negociação;  </li><li> Organização e disciplina;  </li><li> Análise crítica;  </li><li> Foco em resultado;  </li><li> Perfil curioso e proativo;  </li><li> Perfil flexível e de alta adaptabilidade;  </li><li> Habilidade em fazer conexões e relacionamentos.  </li> </ul> <p><b> Requisitos e qualificações:  </b> </p><ul><li> Ensino Médio completo  </li><li> Pacote office básico  </li><li> De acordo com a legislação, ter até 24 anos.  </li> </ul> <p> Se você se identifica com nosso propósito e entende que tem as qualificações necessárias para essa oportunidade, candidate-se à vaga venha fazer parte dessa transformação com a gente! </p>  </p>",
     "company": "Indorama Ventures: Indovinya",
     "city": "São Paulo",
     "state": "São Paulo (microrregião)",
     "url": "https://br.whatjobs.com/coopob__cpl___3390_2456525__1953?utm_source=1953&utm_medium=feed&keyword=Auxiliar-Administrativo-Aprendiz&location=São-Paulo&geoID=8414",
-    "tipo": ""
-  },
-  {
-    "title": "Engenheiro de aprendizagem de máquina",
-    "description": "<p> Estamos em busca de Engenheiro(a) de ML (Especialista) talentoso(a) e motivado(a) para se juntar à nossa equipe Inter! Se você é apaixonado(a) por dados e deseja impulsionar sua carreira em um ambiente inovador, esta é a sua chance! Venha ser #sanguelaranja! (Vaga Presencial)  <p><b> Responsabilidades   </b>  </p> <ul><li> Projetar e implementar arquiteturas de ML escaláveis e eficientes.  </li><li> Otimizar e automatizar o ciclo de vida completo dos modelos de ML (treinamento, validação, implantação, monitoramento e retreinamento).  </li><li> Colaborar com equipes multifuncionais para identificar e resolver desafios de MLOps.  </li><li> Fornecer orientação técnica e as melhores práticas para a equipe.  </li> </ul> <p><b> Requisitos   </b>  </p> <ul><li> Experiência de 3 ou + anos como engenheiro de ML / MLOps.  </li><li> Proficiência em linguagem Python.  </li><li> Conhecimento sólido em ferramentas e plataformas de MLOps (e.g., MLflow, Sagemaker, Bedrock).  </li><li> Familiaridade com contêineres (Docker) e orquestração (Kubernetes).  </li><li> Experiência com infraestrutura em nuvem AWS.  </li><li> Conhecimento sólido em Airflow, CI/CD, testes unitários.  </li><li> Conhecimento em automação, monitoramento e otimização de modelos.  </li><li> Excelente capacidade de comunicação/colaboração para trabalhar com equipes de cientistas de dados e engenheiros de dados.  </li> </ul> </p>",
-    "company": "Inter",
-    "city": "Belo Horizonte",
-    "state": "Belo Horizonte (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2458459__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-aprendizagem&location=Belo-Horizonte&geoID=1086",
     "tipo": ""
   },
   {
@@ -4131,15 +3258,6 @@
     "tipo": ""
   },
   {
-    "title": "Banco de Talentos – Programa Aprendizagem Primeiros Passos",
-    "description": "<p><strong>Banco de Talentos – Programa Aprendiz Primeiros Passos  </strong> </p> <p >Localização: Shoppings e Sede Corporativa do Grupo Almeida Junior  </p> <p > <p >Sobre o Programa de Aprendiz: O Programa de Aprendiz do Grupo Almeida Junior é uma oportunidade emocionante para jovens talentosos que desejam iniciar suas carreiras em um ambiente dinâmico e desafiador. Projetado para proporcionar um ambiente de aprendizado prático e suporte contínuo, o programa oferece aos participantes a oportunidade de desenvolver habilidades essenciais para o mercado de trabalho, enquanto contribuem para o sucesso de nossas operações. ; </p>  </p> <p ><strong>Responsabilidades: </strong> ; </p>  Auxiliar em diversas áreas operacionais, como atendimento ao cliente, vendas, suporte administrativo, entre outras, de acordo com a necessidade de cada unidade; Participar de treinamentos teóricos e práticos para desenvolvimento de habilidades técnicas e comportamentais; Colaborar com as equipes existentes para garantir o cumprimento das metas e padrões de excelência estabelecidos pelo Grupo Almeida Junior; Demonstrar comprometimento, proatividade e disposição para aprender e crescer profissionalmente. ;  <p ><strong>Requisitos: </strong> ; </p>  Idade entre 17 e 24 anos. ; Estar cursando ou ter concluído o Ensino Fundamental ou Médio. ; Capacidade de se comunicar de forma clara e eficaz. ; Atitude positiva, ética profissional e vontade de aprender. ;  <p > <p >Se você é um jovem talentoso em busca de uma oportunidade única para iniciar sua carreira, junte-se a nós no Grupo Almeida Junior e faça parte de nossa equipe de sucesso!  </p>    </p>  </p>  </p> <p> ; </p> <p> ; </p> <p> ; </p> <p> ; </p> <p> ; </p> <p> ; </p> </p>",
-    "company": "Almeida Junior",
-    "city": "REMOTE",
-    "state": "REMOTE",
-    "url": "https://br.whatjobs.com/coopob__cpl___3773_158798__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=REMOTE",
-    "tipo": "Tempo Integral"
-  },
-  {
     "title": "APRENDIZ AG HIGIENE",
     "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Vale Alimentação,<br />Vale Transporte;<br />20 %Insalubridade; </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> Aprendiz </p>",
     "company": "ApoioEcolimp",
@@ -4254,15 +3372,6 @@
     "city": "REMOTE",
     "state": "REMOTE",
     "url": "https://br.whatjobs.com/coopob__cpl___3773_160719__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AUX-HIGIENE&location=REMOTE",
-    "tipo": "Tempo Integral"
-  },
-  {
-    "title": "Banco de Talentos – Jovem Aprendiz (Barretos – São Paulo)",
-    "description": "<p >Que tal integrar o quadro de colaboradores de uma instituição cujo valores de atuação são baseados no amor e na humanização? </p> <p >O Hospital de Amor conta com diversas unidades hospitalares, acredita e desenvolve a sua equipe constantemente, proporcionando um bom clima organizacional e o bem-estar no ambiente de trabalho. </p> <p >Nosso propósito é a prestação de serviços ao paciente do Sistema Único de Saúde na prevenção, com diagnósticos, realização de tratamento, ensino e pesquisa em oncologia. </p> <p >Estamos em busca de um profissional para a função de <strong>Jovem Aprendiz </strong>. </p> <p >Saiba mais: </p> <p > <p ><strong>PRINCIPAIS ATRIBUIÇÕES DESEMPENHADAS PELO CARGO </strong> </p>  Auxiliar na organização do setor, realizando digitalização e arquivamento de documentos; Auxiliar no atendimento ao público e telefônico; Realizar controle de estoque do setor, solicitando reposição de materiais e suprimentos; Dar apoio as demandas administrativas conforme fluxos internos; Utilização de sistemas internos de prontuários e cadastramento. ;  <p ><strong>QUALIFICAÇÕES  </strong> </p>  </p> <p>Ter entre 18 e 22 anos completos; </p> <p >Formação: Ensino Médio completo; </p> <p >Para candidatos do sexo masculino necessário apresentar Dispensa Militar (Reservista) </p>  </p> <p ><strong>CARGA HORÁRIA </strong> </p> <p >Ás segundas-feiras das 7:30 ás às 12:30 – De terça a sexta-feira das 13:00 ás 18:00. </p>",
-    "company": "Hospital de Amor",
-    "city": "Barretos",
-    "state": "SP",
-    "url": "https://br.whatjobs.com/coopob__cpl___3773_160778__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Barretos&geoID=994",
     "tipo": "Tempo Integral"
   },
   {
@@ -4581,6 +3690,69 @@
     "tipo": "Tempo Integral"
   },
   {
+    "title": "APRENDIZ AG HIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale Transporte </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "São Paulo",
+    "state": "SP",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163401__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AG-HIGIENE&location=São-Paulo&geoID=25",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ AG HIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale transporte  </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "REMOTE",
+    "state": "REMOTE",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163411__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AG-HIGIENE&location=REMOTE",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ AGHIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale Transporte </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "REMOTE",
+    "state": "REMOTE",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163412__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AGHIGIENE&location=REMOTE",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ AG HIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale Transporte  </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "REMOTE",
+    "state": "REMOTE",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163445__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AG-HIGIENE&location=REMOTE",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ",
+    "description": "<p><b>Descrição </b> </p> <p>Auxiliar nas atividades administrativas do Hub de PMO s, fornecendo suporte emAuxiliar nas<br /> atividades administrativas do Hub de PMO´s, fornecendo suporte em processos de solicitação<br /> de contratação de fornecedores, na contratação de ferramentas, na formalização<br /> das despesas efetuadas com viagens a serviço, apoio da documentação de<br /> reembolsos, alimentação sistêmica  TOTVS, arquivamentos diversos, contribuindo<br /> para a eficiência e organização das operações do HUB na empresa. </p> <p><b>Responsabilidades e atribuições </b> </p>   Auxiliar nas tarefas administrativas do HUB, organizando<br /> documentos, arquivando registros, atualizando dados no sistema e atualizando<br /> planilhas. Apoiar no processo de contratação de fornecedores /<br /> freelancers formalizando a contratação em nosso sistema e dando retorno após o<br /> processo ser finalizado. Assistir na alimentação sistêmica das emissões de aéreos e<br /> viagens. Ajudar nos trâmites relativos a reembolsos diversos,<br /> repassando documento de solicitação e análise das comprovações.  <p><b>Requisitos e qualificações </b> </p> <p>Ensino médio completo. </p>",
+    "company": "Oficina Consultoria",
+    "city": "Brasília",
+    "state": "DF",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163507__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ&location=Brasília&geoID=1366",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ AG HIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale Transporte </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "São Paulo",
+    "state": "SP",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163514__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AG-HIGIENE&location=São-Paulo&geoID=25",
+    "tipo": "Tempo Integral"
+  },
+  {
+    "title": "APRENDIZ AG HIGIENE",
+    "description": "DESCRIÇÃO DA VAGA <p><p>Auxiliar na higienização dos setores em geral, através de coleta interna de resíduo comum e reciclável, salvo biológico com precaução aérea e contato;<br />Auxiliar na higienização de banheiros, vidros, superfícies horizontais e verticais, como: mesa, bancada, parede, teto, cortinas, persianas e janelas varrendo e lavando a fim de manter as áreas limpas e organizadas;<br />Auxiliar na limpeza e no abastecimento das saboneteiras, papeleiras e produtos nos recipientes, repondo os materiais que estiverem acabando;<br />Abastecer e programar a Máquina de Lavar para com o objetivo manter limpos os panos e MOP´s;<br />Organizar as caixas com Kits de equipamentos de proteção individual, bem como auxiliar no preenchimento das fichas dos colaboradores do setor;<br />Organizar o estoque de Produtos de Higienização e Equipamentos, bem como, auxiliar na separação e distribuição do material para execução da higienização;<br />Organizar o carrinho funcional e/ou balaio de acordo com a padronização estabelecida pela Empresa;<br />Auxiliar na verificação das etiquetas de identificação e validade dos produtos conforme padrão estabelecido pela Empresa;<br />Executar atividades afins, de acordo com as suas competências, mediante solicitação do superior hierárquico. </p>  </p> REQUISITOS DA VAGA <p><p>ESCOLARIDADE MÍNIMO: Ensino Fundamental cursando. <br />DESEJÁVEL: Ensino Médio completo<br />EXPERIÊNCIA NA ÁREA MÍNIMO: Não aplicável <br />DESEJÁVEL: Não aplicável<br />HABILITAÇÃO/CERTIFICAÇÕES Não aplicável. </p>  </p> BENEFÍCIOS DA VAGA <p><p>Ticket VA </p> <p>Vale Transporte </p>  </p> INFORMAÇÕES ADICIONAIS <p><strong>Contrato: </strong> CLT </p>",
+    "company": "ApoioEcolimp",
+    "city": "REMOTE",
+    "state": "REMOTE",
+    "url": "https://br.whatjobs.com/coopob__cpl___3773_163518__1953?utm_source=1953&utm_medium=feed&keyword=APRENDIZ-AG-HIGIENE&location=REMOTE",
+    "tipo": "Tempo Integral"
+  },
+  {
     "title": "Jovem Aprendiz",
     "description": "<p><strong>Job Description </strong> </p><p><strong>Responsabilidades e atribuições </strong> </p><p><strong>Confira as principais atividades desta vaga: </strong> </p><p><br></p><ul><li>Apoiar nas atividades administrativas e operacionais. </li><li>Contribuir para a organização e gestão de documentos e informações. </li><li>Auxiliar na elaboração de relatórios e apresentações. </li><li>Colaborar com a equipe em projetos específicos, trazendo novas ideias e perspectivas. </li> </ul><p><strong>Requisitos e qualificações </strong> </p><p><strong>Curtiu?! Vamos em frente, entenda o que esperamos de você: </strong> </p><ul><li>Ter entre 17 e 20 anos. </li><li>Estar cursando ou ter concluído o ensino médio. </li><li>Disponibilidade para trabalhar 6 horas por dia, das 9h às 15h15. </li><li>Disponibilidade para curso de capacitação. </li><li>São Paulo /SP </li> </ul>",
     "company": "Empresa Confidencial",
@@ -4761,33 +3933,6 @@
     "tipo": ""
   },
   {
-    "title": "Pessoa Coordenadora De Rh (Educação & Aprendizagem)",
-    "description": "<p>MAIS QUE MERCADO  </p><p><br />  </p><p>Somos parte de um dos maiores grupos varejistas do mundo, sendo o maior varejista do Brasil e um dos maiores empregadores privado do país, com mais de 130 mil pessoas colaboradoras, unidos no propósito de contribuir para uma alimentação mais acessível e de qualidade aos brasileiros e brasileiras.  </p><p><br />  </p><p>Manifesto  </p><p>No Grupo Carrefour Brasil, acreditamos que a verdadeira inclusão começa com a valorização das diferenças e a criação de um ambiente onde cada pessoa pode ser autêntica e alcançar seu pleno potencial. Aqui, cada colaborador é respeitado e incentivado a trazer sua individualidade para o trabalho.  </p><p>Nossa diversidade é a força que impulsiona nosso crescimento coletivo, criando um espaço de colaboração onde todos têm a oportunidade de prosperar.  </p><p><br />  </p><p>O desenvolvimento profissional é parte essencial do que oferecemos. Acreditamos que o crescimento é uma jornada contínua, e por isso fornecemos as ferramentas e oportunidades necessárias para que cada colaborador possa expandir suas habilidades e evoluir dentro da empresa. Seja por meio da escola de líderes, programas afirmativos ou vagas internas, garantimos que todos possam avançar em seu próprio ritmo, construindo uma trajetória de sucesso dentro do Grupo.  </p><p><br />  </p><p>A ascensão social faz parte do nosso compromisso em transformar vidas. Valorizamos o esforço e a dedicação, oferecendo caminhos claros para o crescimento. Muitos de nossos colaboradores que iniciaram suas carreiras em posições operacionais, como estoquistas ou operadores de caixa, têm a oportunidade de, por meio de nosso apoio e desenvolvimento contínuo, alcançar cargos de supervisão, gerência e até CEO.  </p><p><br />  </p><p>No Grupo Carrefour Brasil, acreditamos que o sucesso não tem limites e todos podem crescer com  </p><p>dedicação e apoio. Inclusão, desenvolvimento e ascensão social caminham JUNTOS.  </p><p>Aqui, você pode ser você mesmo, evoluir como profissional e transformar a sua vida e a de sua família.  </p><p><br />  </p><p>Venha fazer parte dessa história!  </p><p><br />  </p><p><strong>Missão do cargo:<br />  </strong>  </p><p>Responsável por liderar a estratégia de Educação Corporativa e Aprendizagem da Diretoria de Vendas e Atendimento do Banco Carrefour, garantindo a disseminação da cultura, o desenvolvimento contínuo dos colaboradores e a aderência às necessidades de capacitação dos diferentes públicos. Atuará de forma integrada com as demais frentes de RH, garantindo soluções alinhadas ao negócio e foco em performance, engajamento e experiência das pessoas colaboradoras.  </p><p><br />  </p><p><strong>Responsabilidades:<br />  </strong>  </p><ul><li>Atuar como parceiro estratégico junto às áreas de negócio, traduzindo suas demandas em soluções de aprendizagem que acelerem resultados e preparem a organização para os desafios futuros; <br />  </li><li>Engajar multiplicadores internos, instrutores e lideranças para promover uma cultura de aprendizagem contínua; <br />  </li><li>Liderar o desenho e a implementação de trilhas de desenvolvimento para diferentes públicos (operação de atendimento, lojas e escritório do banco); <br />  </li><li>Estruturar programas robustos de formação de lideranças, desenvolvimento de competências críticas e aceleração de talentos; <br />  </li><li>Atuar com visãode design instrucional e uso de metodologias inovadoras (blended learning, microlearning, gamificação, entre outras); <br />  </li><li>Liderar e desenvolver o time de educação corporativa, promovendo um ambiente colaborativo, criativo e de alta performance.  </li><li>Estabelecer KPIs de aprendizagem, acompanhando resultados e propondo melhorias com base em dados e feedbacks; <br />   </li><li>Garantir a gestão eficiente de fornecedores, orçamento e ferramentas de educação corporativa.  </li>  </ul><p><br />  </p><p><strong>Você precisa ter:<br />  </strong>  </p><ul><li>Formação superior completa (Psicologia, Administração, Pedagogia, Recursos Humanos ou áreas afins); <br />  </li><li>Domínio de ferramentas digitais de aprendizagem; <br />  </li><li>Perfil estratégico, analítico e orientado a resultados, com forte atuação junto a lideranças executivas; <br />  </li><li>Experiência comgestão de pessoas e vivência em projetos estruturantes de desenvolvimento organizacional e transformação cultural.  </li>  </ul><p><br />  </p><p><strong>Adoraríamos se você tiver:<br />  </strong>  </p><ul><li>Certificações em metodologias de treinamento, design instrucional ou educação corporativa; <br />  </li><li>Atuação prévia em ambientes de alta complexidade, preferencialmente no setor bancário; <br />  </li><li>Inglês avançadopara leitura e produção de materiais.  </li>  </ul>",
-    "company": "Confidencial",
-    "city": "Barueri",
-    "state": "Federative Republic Of Brazil",
-    "url": "https://br.whatjobs.com/coopob__cpl___4184_1564834__1953?utm_source=1953&utm_medium=feed&keyword=Pessoa-Coordenadora-De&location=Barueri&geoID=1016",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<p>Job Description </p><p>Responsabilidades e atribuições </p><p>Confira as principais atividades desta vaga: </p><ul><li>Apoiar nas atividades administrativas e operacionais. </li><li>Contribuir para a organização e gestão de documentos e informações. </li><li>Auxiliar na elaboração de relatórios e apresentações. </li><li>Colaborar com a equipe em projetos específicos, trazendo novas ideias e perspectivas. </li> </ul><p>Requisitos e qualificações </p><p>Curtiu?! Vamos em frente, entenda o que esperamos de você: </p><ul><li>Ter entre 17 e 20 anos. </li><li>Estar cursando ou ter concluído o ensino médio. </li><li>Disponibilidade para trabalhar 6 horas por dia, das 9h às 15h15. </li><li>Disponibilidade para curso de capacitação. </li><li>São Paulo /SP </li> </ul>",
-    "company": "Empresa Confidencial",
-    "city": "São Paulo",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___4320_415180__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=25",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz - Comercial",
-    "description": "<p> É hora de mostrar ao mundo que fazemos parte da empresa que está mudando paradigmas — onde reinventamos as horas, os minutos e os segundos! </p><p>Por que escolher a Rappi? </p><p>️ Onde outros veem problemas, nós enxergamos oportunidades. </p><p>️ Onde outros veem distância, nós vemos proximidade. </p><p>️ Onde outros veem pressão, nós sentimos adrenalina. </p><p>Venha fazer parte de um time onde TODOS são capazes de TUDO, e onde TODOS têm as mesmas oportunidades — independentemente de identidade de gênero, raça, religião, nacionalidade, idade, deficiência, formação ou experiência. </p><p>Curtiu até aqui? Então descubra como você pode entregar magia com a gente na sua missão Rappi  </p><p>O Aprendiz do Comercial é responsável por garantir a atualização e organização do catálogo de produtos, apoiando processos financeiros e identificando oportunidades de melhoria. Atuar no controle de informações e abertura de tickets, assegurando eficiência nas operações e contribuir para o crescimento sustentável da área com análises e suporte administrativo. </p><p> Principais Responsabilidades </p><ul><li>Atualização do catálogo de produtos das regiões Rio e Nordeste; </li><li>Gestão de tickets no Jira para ajustes e manutenções; </li><li>Pesquisa e análise de preços nos marketplaces, identificando oportunidades; </li><li>Apoio financeiro, incluindo fechamento de parceiros e lançamento de Notas Fiscais; </li><li>Manutenção de planilhas e relatórios para controle e organização da área. </li> </ul><p> Requisitos </p><ul><li>Excel (nível intermediário); </li><li>Excelente comunicação, organização e proatividade; </li><li>Ensino médio completo ou cursando ensino técnico/faculdade; </li><li>Conhecimentos intermediários em Excel e Pacote Office; </li><li>Noções prévias de finanças e rotinas administrativas do varejo; </li><li>Diferenciais: Espanhol e conhecimento em ferramentas de BI; </li><li>Residir em São Paulo. </li> </ul>",
-    "company": "Rappi",
-    "city": "State of São Paulo",
-    "state": "State of São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___4320_415268__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=State-of-São-Paulo",
-    "tipo": ""
-  },
-  {
     "title": "Jovem Aprendiz - Central de Relacionamento",
     "description": "<p>Responsabilidades:  </p><ul><li>Atendimento ao cliente por telefone, e-mails e canais de atendimento; </li><li>Identificar e solucionar dúvidas, reclamações e problemas apresentados pelos clientes.; </li><li>Registrar as demandas dos clientes e acompanhar o andamento das soluções até a resolução final; </li><li>Rotinas gerais de suporte a área de SAC; </li> </ul><p>Requisitos:  </p><ul><li>Ensino médio </li><li>Boa comunicação verbal e escrita; </li> </ul>",
     "company": "Sodimac",
@@ -4959,6 +4104,24 @@
     "tipo": ""
   },
   {
+    "title": "Jovem Aprendiz",
+    "description": "<p>Job Description </p><p>Responsabilidades e atribuições </p><p>Confira as principais atividades desta vaga: </p><ul><li>Apoiar nas atividades administrativas e operacionais. </li><li>Contribuir para a organização e gestão de documentos e informações. </li><li>Auxiliar na elaboração de relatórios e apresentações. </li><li>Colaborar com a equipe em projetos específicos, trazendo novas ideias e perspectivas. </li> </ul><p>Requisitos e qualificações </p><p>Curtiu?! Vamos em frente, entenda o que esperamos de você: </p><ul><li>Ter entre 17 e 20 anos. </li><li>Estar cursando ou ter concluído o ensino médio. </li><li>Disponibilidade para trabalhar 6 horas por dia, das 9h às 15h15. </li><li>Disponibilidade para curso de capacitação. </li><li>São Paulo /SP </li> </ul>",
+    "company": "Empresa Confidencial",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4320_423709__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=25",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz - Comercial",
+    "description": "<p> É hora de mostrar ao mundo que fazemos parte da empresa que está mudando paradigmas — onde reinventamos as horas, os minutos e os segundos! </p><p>Por que escolher a Rappi? </p><p>️ Onde outros veem problemas, nós enxergamos oportunidades. </p><p>️ Onde outros veem distância, nós vemos proximidade. </p><p>️ Onde outros veem pressão, nós sentimos adrenalina. </p><p>Venha fazer parte de um time onde TODOS são capazes de TUDO, e onde TODOS têm as mesmas oportunidades — independentemente de identidade de gênero, raça, religião, nacionalidade, idade, deficiência, formação ou experiência. </p><p>Curtiu até aqui? Então descubra como você pode entregar magia com a gente na sua missão Rappi  </p><p>O Aprendiz do Comercial é responsável por garantir a atualização e organização do catálogo de produtos, apoiando processos financeiros e identificando oportunidades de melhoria. Atuar no controle de informações e abertura de tickets, assegurando eficiência nas operações e contribuir para o crescimento sustentável da área com análises e suporte administrativo. </p><p> Principais Responsabilidades </p><ul><li>Atualização do catálogo de produtos das regiões Rio e Nordeste; </li><li>Gestão de tickets no Jira para ajustes e manutenções; </li><li>Pesquisa e análise de preços nos marketplaces, identificando oportunidades; </li><li>Apoio financeiro, incluindo fechamento de parceiros e lançamento de Notas Fiscais; </li><li>Manutenção de planilhas e relatórios para controle e organização da área. </li> </ul><p> Requisitos </p><ul><li>Excel (nível intermediário); </li><li>Excelente comunicação, organização e proatividade; </li><li>Ensino médio completo ou cursando ensino técnico/faculdade; </li><li>Conhecimentos intermediários em Excel e Pacote Office; </li><li>Noções prévias de finanças e rotinas administrativas do varejo; </li><li>Diferenciais: Espanhol e conhecimento em ferramentas de BI; </li><li>Residir em São Paulo. </li> </ul>",
+    "company": "Rappi",
+    "city": "State of São Paulo",
+    "state": "State of São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4320_423787__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=State-of-São-Paulo",
+    "tipo": ""
+  },
+  {
     "title": "Auxiliar de Assador Churrasqueiro - APRENDIZ",
     "description": "<p>VAGA QUENTE EM JURERÊ!<br />\n AUXILIAR DE ASSADOR DE CHURRASQUEIRO - APRENDIZ<br />\n Quer aprender com quem entende de brasa? Se você tem vontade de crescer na área, gosta de cozinha e tem disposição para o trabalho em equipe, essa é a sua chance!<br />\n Local: Churrascaria em Jurerê  Florianópolis<br />\n <br />\n Funções: Auxiliar no preparo, corte e assamento de carnes sob orientação do churrasqueiro, além de colaborar na limpeza e organização da área de trabalho. </p> \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t \t\t\t\t\t\t<strong>Certificação Conhecimento </strong> \t\t\t<p>Requisitos: Desejável vivência anterior em cozinha ou restaurantes; interesse em aprender sobre o trabalho na parrilla e no fogo de chão. </p> \t\t\t \t\t\t\t\t\t\t\t\t \t\t\t\t\t\t<strong>Horário de Trabalho </strong> \t\t\t<p>Segunda a quinta-feira: 12h às 22h\n Sexta-feira e sábado: 12h às 23h\n Domingo: 12h às 22h\n Uma folga na semana e um domingo no mês </p> \t\t\t\t\t\t \t\t\t\t\t\t<strong>Informações Adicionais </strong> \t\t\t<p>Remuneração: R$ 2.135,12 + vale-alimentação + vale-transporte<br />\n <br />\n  </p>",
     "company": "Incubadora de Talentos",
@@ -5045,7 +4208,7 @@
     "company": "ESPRO",
     "city": "Pouso Alegre",
     "state": "Minas Gerais",
-    "url": "https://br.whatjobs.com/coopob__cpl___4501_11921__1953_deadca6ed77cca018509e1e30ae5ced1?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=Pouso-Alegre&geoID=6951",
+    "url": "https://br.whatjobs.com/coopob__cpl___4501_11921__1953_236650542b76818df776d05ff4bec113?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=Pouso-Alegre&geoID=6951",
     "tipo": "Temporário"
   },
   {
