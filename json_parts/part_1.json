@@ -41,7 +41,7 @@
     "company": "SUN PHARMA",
     "city": "Goiânia",
     "state": "Goiás",
-    "url": "https://br.whatjobs.com/coopob__cpl___4156_185220__1953_a7cbc486d09de1427bd1e31ec4bc06e5?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=Goiânia&geoID=3432",
+    "url": "https://br.whatjobs.com/coopob__cpl___4156_185220__1953_9c7bb399b28b1cded72e6a24c21de1b8?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=Goiânia&geoID=3432",
     "tipo": ""
   },
   {
@@ -347,7 +347,7 @@
     "company": "Mirae Asset (Brasil) CCTVM Ltda",
     "city": "são paulo",
     "state": "estado de são paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1224430__1953_8c351f950136d5a507e7e1d488de2a2f?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-%C3%A1rea&location=são-paulo&geoID=8414",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1224430__1953_c39443790bb334e61034315225f318a1?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-%C3%A1rea&location=são-paulo&geoID=8414",
     "tipo": ""
   },
   {
@@ -365,7 +365,7 @@
     "company": "G4F",
     "city": "brasília",
     "state": "distrito federal",
-    "url": "https://br.whatjobs.com/coopob__cpl___4913_1349768__1953_154d3f1f17206265fd8f4b8abc6a133d?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=brasília&geoID=1366",
+    "url": "https://br.whatjobs.com/coopob__cpl___4913_1349768__1953_3f5a44110120c9f19b60d488b68c817f?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=brasília&geoID=1366",
     "tipo": ""
   },
   {
@@ -2844,60 +2844,6 @@
     "tipo": ""
   },
   {
-    "title": "Engenheiro de aprendizagem de máquina",
-    "description": "<p> Sobre o Group Link One: <br>Transformamos o mundo físico com inteligência aplicada. No Group Link One, desenvolvemos uma tecnologia AIoT 100% brasileira, que une sensores inteligentes, ciência de dados e software de alto nível para transformar dados brutos em insights estratégicos. Especialistas em telemetria, oferecemos uma solução completa de ponta a ponta do hardware ao dashboard para capturar, organizar e interpretar dados comportamentais no mundo real. Não vendemos só sensores. Vendemos inteligência. Acreditamos que os dados certos, coletados no lugar certo, com a tecnologia certa, têm o poder de transformar decisões, empresas, cidades e pessoas. Nossa missão é construir a infraestrutura invisível que conecta o físico ao digital com precisão, propósito e impacto real. <br>Sobre a Função: <br>Nível da Vaga: Sênior <br>Perfil Técnico e Comportamental Desejado: <br>Programação e Frameworks: <br>Python (pandas, polars, scikit-learn, TensorFlow/Pytorch, plotly, matplolib)<br>Banco de Dados SQL (PostgreSQL, Apache Druid, DuckDB, BigQuery, Iceberg)<br>MLOps (MLflow, Docker, Kubernetes, Git, A/B testing, Grafana)<br>Cloud Computing (Google Cloud Platform, DigitalOcean)<br>REST API (FastAPI)<br>Visualização (Metabase)<br>Machine Learning: <br>Supervised e unsupervised learning <br>Deep Learning <br>Time Series <br>Natural Language Processing <br>Feature Engineering <br>Avaliação de Modelos <br>AutoML e hyperparameter tuning <br>Diferenciais: <br>Python (PySpark, Dask)<br>Node.js (Javascript, Typescript)<br>MLOps (Metaflow, Prefect/Airflow/dbt, DVC)<br>Stream (Apache Kafka)<br>Redis <br>Comportamental: <br>O Machine Learning Engineer precisa ser comunicativo de modo que saiba comunicar-se com pessoas técnicas, assim como também com pessoas não técnicas. Saber trabalhar em equipe multidisciplinar colaborando com desenvolvimento dos produtos e serviços da Group Link One. Ter pensamento crítico sobre os dados e resultados gerados, avaliando sempre se estão alinhados com o contexto em questão assim como também com os objetivos da empresa. Ter a capacidade de gerenciar os projetos sobre a sua responsabilidade, conduzindo entregas contínuas e com valor agregado, negociando prazos e alinhando expectativas com os envolvidos no projeto. Ter perfil inovador o qual sempre buscar por soluções novas baseadas em pesquisas acadêmicas ou em tecnologias emergentes que contribuam para melhor desempenho da equipe assim como também para o crescimento da empresa. <br>Descritivos das Atividades: <br>Projetar e desenvolver sistemas de aprendizado de máquina que contemplem as etapas da construção dos modelos, a saber: ingestão dos dados, processamento dos dados, treinamento/modelagem, avaliação do modelo, implantação/deploy e monitoração. <br>Aplicar princípios de MLOps para garantir versionamento, automação e escalabilidade dos modelos. <br>Estudar, transformar e converter em produtos/serviços os protótipos desenvolvidos pelos cientistas de dados. <br>Realizar análises estatísticas e usar os resultados para aprimorar os modelos ou na criação de relatórios que sejam de interesse para os stackholders. <br>Criar relatórios e dashboards a partir de solicitações da empresa ou de clientes. <br>Visualizar dados para insights mais profundos. Entender quando suas descobertas podem ser aplicadas a decisões de negócios. <br>Verificar a qualidade dos dados e/ou garanti-la por meio da limpeza de dados. <br></p>",
-    "company": "Group Link OneTM",
-    "city": "São Paulo",
-    "state": "São Paulo (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2731146__1953?utm_source=1953&utm_medium=feed&keyword=Engenheiro-de-aprendizagem&location=São-Paulo&geoID=8414",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<p> Trabalhar na Kavak é... <br>Fazer parte de um time global que incentiva inovação e criatividade, em um ambiente onde a multidisciplinaridade se destaca. Aqui, diferentes perspectivas se unem para desenvolver soluções que revolucionam o mercado automotivo e a experiência do cliente. Cada ideia é valorizada e todos têm a chance de transformar o futuro. Se você busca projetos desafiadores e disruptivos, a KAVAK é o seu lugar. <br>Missão dessa posição <br>: <br>Somar ao nosso Programa de Jovens Aprendizes em diferentes áreas da Kavak, apoiando os times em tarefas administrativas, com uma rotina de desenvolvimento e aprendizado contínuo. <br>Requisitos para candidatura <br>: <br>Ter entre 18 e 22 anos; <br>Residir próximo a Barueri e redondezas; <br>Ser a sua primeira experiência profissional; <br>Ser <br>curioso <br>, <br>entusiasmado <br>e empolgado para crescer junto com a Kavak; <br>Ter conhecimentos básicos em ferramentas Google (Documentos, Apresentações e Planilhas). <br>Habilidades que buscamos <br>: <br>Vontade de aprender <br>e crescer pessoal e profissionalmente; <br>Proatividade <br>e interesse em colaborar com sua equipe. <br>Importante saber: <br>A administração do contrato de nossos aprendizes e qualificação teórica é feita através de uma empresa parceira. <br>S <br>obre jornada e benefícios: <br>A jornada de trabalho é de 6 horas diárias, de segunda à sexta, com um dia de curso profissionalizante na semana; <br>Vale-Refeição; <br>Vale Transporte. <br>Modelo de trabalho e local <br>: <br>Modelo 100% presencial; <br>Local de Trabalho: Kavak City | Estr. dos Alpes, 4172 - Res. Morada dos Lagos, Barueri - SP,  . <br>Sobre a Kavak <br>A Kavak iniciou a revolução no mercado automotivo em 2016, criando uma plataforma baseada no uso de dados e tecnologia que compra, recondiciona e vende carros usados pela internet ou nas dependências da empresa (hubs), com todas as garantias de segurança e confiabilidade, além das melhores opções de financiamento. Após quatro anos de operação, a Kavak se tornou a primeira empresa unicórnio da história do México e uma das startups mais valiosas da América Latina. </p>",
-    "company": "Kavak.com",
-    "city": "São Paulo",
-    "state": "São Paulo (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2731798__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=8414",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz",
-    "description": "<p> A <br>Sun Pharma <br>é a <br>quarta maior empresa farmacêutica especializada em genéricos do mundo <br>e a <br>número 1 na Índia <br>. Fornecemos medicamentos acessíveis e de alta qualidade, em que clientes e pacientes confiam em <br>mais de 100 países <br>. Presença global com mais de 40 unidades fabris em 5 continentes, centros de P&D e uma força de trabalho multicultural composta por mais de 50 nacionalidades. <br>Responsabilidades e atribuições <br>Estamos em busca de um(a)<br>Aprendiz <br>para integrar nossa equipe e apoiar nas rotinas administrativas. Essa é uma excelente oportunidade para quem deseja iniciar sua carreira profissional e desenvolver novas habilidades. <br>Apoiar nas atividades administrativas da área; <br>Organização de documentos e arquivos; <br>Auxílio no atendimento interno; <br>Lançamento de informações em sistemas. <br>Requisitos e qualificações <br>Idade entre 14 e 24 anos (conforme Lei da Aprendizagem); <br>Ensino médio cursando ou concluído; <br>Conhecimento básico em Pacote Office; <br>Boa comunicação e vontade de aprender. <br>Benefícios <br>Plano de Saúde – 100% subsidiado pela empresa - sem descontos <br>Plano Odontológico <br>Vale Refeição <br>Vale Alimentação <br>Vale Transporte/estacionamento <br>Seguro de Vida <br>Wellhub <br></p>",
-    "company": "SUN PHARMA",
-    "city": "Goiânia",
-    "state": "Goiânia (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2735949__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=Goiânia&geoID=3432",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz",
-    "description": "<p> Estamos com vagas abertas para Jovem Aprendiz!<br>Se você está em busca da sua primeira oportunidade profissional, essa é a chance. <br>Temos vagas em diferentes áreas – venha aprender, se desenvolver e crescer com a gente!<br>Sobre a 99<br>Se para você a tecnologia existe para melhorar o caminho da vida, para o nosso time também: Seu Caminho, Nossa Jornada. <br>Acreditamos na tecnologia que conecta gente boa no que faz e que vive a diversidade para criar e compartilhar até os caminhos que a gente (ainda!) nem sabe quais são. Trabalhamos para gerar valor não só para os nossos usuários, mas, sobretudo, para as comunidades que servimos e toda a sociedade, tornando a vida das pessoas melhor com serviços que facilitem seu dia a dia - seja com serviços de mobilidade e entrega (99) ou pagamentos digitais (99Pay). <br>Para facilitar a vida de milhões de pessoas todos os dias, desde 2018 fazemos parte da DiDi Global Inc., a maior plataforma de tecnologia e transporte por aplicativo do mundo. Somos pioneiros na criação de soluções inovadoras que começam no Brasil e que ganham escala para gerar impacto positivo em mais de 12 países em que a DiDi está presente. Essas inovações passam por sustentabilidade, segurança, inteligência artificial, mercado financeiro e um tanto mais. <br>Seja para construir projetos do zero ou aprimorar nossas soluções, gostamos de desafios que nos fazem sentir frio na barriga, e é por isso que trabalhamos num ritmo acelerado, com respeito, colaboração e bom humor. Nessa jornada, também nos fortalecemos nas diferentes vivências e opiniões para crescermos juntos, errar rápido, aprender e ajustar o caminho para criar soluções que tragam ainda melhores resultados. </p>",
-    "company": "99",
-    "city": "São Paulo",
-    "state": "São Paulo (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2736233__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=8414",
-    "tipo": ""
-  },
-  {
-    "title": "Banco de Talentos Jovem Aprendiz",
-    "description": "<p> Banco de Taletos Jovem Aprendiz <br>A G4F é uma empresa com uma trajetória sólida de 15 anos, dedicada a conectar pessoas, ideias e tecnologia para oferecer soluções inovadoras. <br>#SomosGreaters <br>A G4F acredita no poder da aprendizagem para gerar impacto positivo e abrir caminhos para o futuro. <br>Estamos abrindo o <br>Banco de Talentos Jovem Aprendiz G4F <br>um espaço criado para jovens que sonham em aprender, se desenvolver e fazer parte de um ambiente que inspira, acolhe e transforma. <br>Quem pode participar: <br>Jovens de <br>14 a 22 anos incompletos <br>; <br>Que estejam <br>matriculados e frequentando a escola <br>, caso ainda não tenham concluído o ensino médio; <br>Com vontade de aprender e construir uma trajetória profissional sólida. <br>Locais de atuação: <br>Brasília (DF) • Goiânia (GO) • Recife (PE)<br>O que oferecemos: <br>Formação teórica e prática com acompanhamento profissional; <br>Oportunidade de crescimento dentro da empresa; <br>Um ambiente que valoriza o respeito, a diversidade e o desenvolvimento humano. <br>Informações Adicionais: <br>Atuação presencial <br>Oportunidades de desenvolvimento profissional <br>Vale Alimentação/Refeição | Pluxee <br>Vale transporte (Opcional)<br>Parceria SESC | Saúde, Lazer, Turismo & Esportes, Assistência Social e Alimentação <br>Parcerias Educacionais <br>Seguro de vida <br>Acesse o formulário e envie seu perfil: <br>Banco de Talentos Jovem Aprendiz G4F – Preencher o formulário <br></p>",
-    "company": "G4F",
-    "city": "Brasília",
-    "state": "Brasília (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2736455__1953?utm_source=1953&utm_medium=feed&keyword=Banco-de-Talentos&location=Brasília&geoID=1366",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz em Manutenção",
-    "description": "<p> Atividades: <br>Auxiliar nos serviços do plano de manutenção preventiva nas máquinas, equipamentos e instalações elétricas dentro dos prazos determinados de forma organizada e com qualidade; <br>Manter atualizados a quantidade de peças em estoque para garantir que as manutenções sejam realizadas com qualidade; <br>Auxiliar técnicos de manutenção no cumprimento dos planos de manutenção planejada das máquinas e equipamentos das áreas de produção e utilidades; <br>Cadastro de materiais e peças utilizando o sistema da manutenção. <br>Requisitos Necessários: <br>Conhecimento em Pacote Office. <br>Formação: <br>Ensino médio completo ou cursando; <br>Ter concluído curso no SENAI na área de Manutenção, Elétrica ou Eletrônica. <br>Local de Trabalho: <br>Itapecerica da Serra. </p>",
-    "company": "Fresenius Kabi Brasil",
-    "city": "Itapecerica da Serra",
-    "state": "Itapecerica da Serra (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2736761__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-em-Manuten%C3%A7%C3%A3o&location=Itapecerica-da-Serra&geoID=4192",
-    "tipo": ""
-  },
-  {
     "title": "Aprendiz",
     "description": "<p> Somos apaixonados pelo que fazemos e juntos conduzimos um negócio com mais de <br>30 anos <br>de história. <br>Já ultrapassamos a marca de 120 lojas, entre próprias e franquias, além de + 1.100 multimarcas que vendem nossos produtos por todo o país e um e-commerce potente que oferece uma infinidade de itens que atendem o lifestyle masculino. <br>Hoje temos um orgulho enorme de dizer que a <br>#NossaComunidade <br>está presente em todos os estados do Brasil e isso é só o começo. Em 2024 faturamos mais de <br>670 milhões de reais <br>e caminhamos com o objetivo de dobrar de tamanho até 2026 e atingirmos a marca de 1 bilhão de reais. <br>E vale dizer que estamos em plena expansão e como parte da nossa estratégia de crescimento decidimos iniciar uma jornada para nos tornarmos uma <br>house of brands <br>, prática comum no varejo de moda. <br>E como marco em nossa história lançamos em 2022 a nossa nova marca <br>Urban Performance <br>, que mescla elegância e praticidade para entregar ao homem mais conforto nos diferentes ambientes que ele ocupa em sua vida como lazer, esporte e trabalho. Em 2025 lançamos a <br>Aramis Next <br>, onde reafirmamos nosso compromisso de acompanhar essa trajetória desde os primeiros passos do cliente, construindo um legado para a próxima geração de clientes e para os próximos 30 anos. <br>Para que tudo isso aconteça, contamos com mais de mil pessoas talentosas, que com protagonismo, colaboração, respeito e muito pertencimento, nos ajudam a construir o que em breve será <br>o destino #1 do lifestyle dos homens <br>. <br>Aqui, acreditamos que cada pessoa inspira uma a outra e juntos podemos impulsionar e transformar histórias. Colaborando uns com os outros, avançamos com leveza e inteligência. <br>Responsabilidades e atribuições <br>Apoiar atividades operacionais do Centro de Distribuição, seguindo orientação da liderança. <br>Dar suporte em rotinas administrativas, como preenchimento de planilhas, emissão de etiquetas, registros internos e controle de documentos. <br>Manter o ambiente de trabalho limpo e organizado, seguindo as normas de segurança. <br>Seguir procedimentos internos e padrões de qualidade estabelecidos pelo CD. <br>Requisitos e qualificações <br>Disposição para apreender; <br>Habilidade em organização; <br>Proatividade e boa comunicação. <br>Informações adicionais <br>Assistência Médica; <br>Assistência Odontológica; <br>Alimentação no local (Almoço e café da manhã); <br>Vale Alimentação; <br>Auxílio Transporte; <br>Auxílio Educação (Edupass); <br>Desconto de 50% nos produtos da marca; <br>️ Day off no mês do aniversário, mês das mães e dos pais, se elegível. </p>",
     "company": "Aramis",
@@ -2907,30 +2853,30 @@
     "tipo": ""
   },
   {
-    "title": "Aprendiz Administrativo (Idade entre 14 e 18 anos)",
-    "description": "<p> O que é importante você ter: <br>Ensino médio completo ou cursando; <br>Idade entre 14 e 18 anos; <br>Pacote Office (mínimo intermediário); <br></p>",
-    "company": "Husqvarna Group",
-    "city": "Serra",
-    "state": "Vitória (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2738677__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-Administrativo-Idade&location=Serra&geoID=8678",
-    "tipo": ""
-  },
-  {
-    "title": "Jovem Aprendiz área Comercial",
-    "description": "<p> Sobre nós <br>Fundada em 1997 na Coreia do Sul e presente em 19 países, a Mirae Asset é um conglomerado financeiro global que oferece soluções de investimento inovadoras para clientes ao redor do mundo. No Brasil, atuamos como corretora de valores, conectando o mercado local a nossa presença internacional e colocando à disposição de investidores pessoas físicas e institucionais produtos e serviços de primeira linha. Nosso compromisso é unir solidez global, inovação e proximidade no atendimento para apoiar nossos clientes em seus objetivos de investimento. <br>#VemSerMiraeAsset <br>Sobre a área <br>O time de Business Development é responsável pelo relacionamento com clientes institucionais da Mirae Asset Brasil. Atuamos na prospecção ativa, manutenção de relacionamento, suporte comercial e organização de materiais estratégicos que contribuem diretamente para o crescimento da base de clientes e geração de receita. <br>O Jovem Aprendiz terá contato direto com o funcionamento de uma corretora institucional, aprendendo sobre rotina comercial, mercado financeiro, organização de dados e processos, sempre com acompanhamento próximo da liderança <br>Jovem Aprendiz área Comercial <br>Principais Atividades <br>Apoiar o time na organização de listas de contatos, atualizações cadastrais e manutenção de bases de dados , auxiliar na preparação de agendas, registros de follow-ups e organização das reuniões comerciais . <br>Realizar pesquisas ,apoiar na formatação de apresentações, materiais comerciais e relatórios internos. <br>Acompanhar a rotina da área, suporte em organização de arquivos, controle de planilhas, atualização de documentos. Auxiliar na logística de eventos e visitas a clientes (agenda, materiais impressos, lista de presença). <br>Atuar com postura colaborativa, aprendendo continuamente sobre o mercado e sobre a operação institucional da Mirae Asset Brasil. <br>Requisitos Desejáveis: <br>Estar cursando Ensino Superior (Administração, Economia, ou áreas correlatas). <br>Interesse em aprender sobre mercado financeiro, relações comerciais e prospecção institucional. <br>Domínio básico de Excel, Word e PowerPoint. <br>Organização, responsabilidade e vontade de se desenvolver. <br>Boa comunicação e capacidade de trabalhar em equipe. <br>Salario: Compatível ao Mercado <br>Beneficios <br>VR 1.122,00<br>VA 690,00<br>VT <br>Assistência Médica (Careplus)<br>Reembolso Odontológico (Odontoprev)<br>Wellhub <br>Reembolso Inglês <br>Local: Avenida Brigadeiro Faria Lima – Itaim Bibi – SP </p>",
-    "company": "Mirae Asset (Brasil) CCTVM Ltda",
-    "city": "São Paulo",
-    "state": "São Paulo (microrregião)",
-    "url": "https://br.whatjobs.com/coopob__cpl___3390_2739371__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-%C3%A1rea&location=São-Paulo&geoID=8414",
-    "tipo": ""
-  },
-  {
     "title": "Jovem Aprendiz - Desenvolvimento de Sistemas | ETEC",
     "description": "<p> Você quer se sentir parte fundamental do negócio, ter oportunidades para propor soluções e fazer parte da história e construção de uma área, esta vaga pode ser sua!<br>Conhecimento é necessário, mas valorizamos muito mais a força de vontade, interesse e dedicação, então não é necessário ter experiência anterior em Desenvolvimento de Sistemas. <br>Local: Ao lado da Estação Vila Olimpia - Linha 9 Esmeralda (Referência: Shopping JK Iguatemi)<br>Responsabilidades e Atribuições <br>Desenvolvimento de API&#39;s utilizando C#; <br>Configuração de serviços em nuvem Azure; <br>HTML, Css, Javascript; <br>Sustentação de sistemas; <br>Modelagem de banco. <br>Competências Técnicas <br>Já ter desenvolvido API&#39;s em C#; <br>Conhecer ADO.NET, Dapper e EF Core; <br>Comandos DDL e DML SQL; <br>Conhecer React e/ou Angular será um PLUS. <br>Competências Comportamentais <br>Vontade de fazer acontecer: valorizamos quem tem vontade de aprender, de se desenvolver, de correr atrás e fazer a diferença; <br>Boa comunicação e redação; <br>Pro atividade; <br>Ser antenado(a) com as novidades do meio; <br>Ser movido(a) a desafios e orientado(a) a resultados. <br></p>",
     "company": "Timeware",
     "city": "São Paulo",
     "state": "São Paulo (microrregião)",
     "url": "https://br.whatjobs.com/coopob__cpl___3390_2746969__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=8414",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz - Central de Atendimento",
+    "description": "<p> Olá, somos a Central IT!<br>Na Central IT, acreditamos em eficiência exponencial que impacta negócios. <br>Nossa missão é <br>elevar a performance das organizações, conectando pessoas, processos e tecnologias às estratégias de negócio <br>. <br>Somos uma empresa de Serviços Especializados em Gestão, Tecnologia e Negócios, movida pelo propósito de gerar valor real e sustentável para clientes e parceiros. <br>Aqui, cada projeto é conduzido com base em nossos valores fundamentais: <br>•<br>Aperfeiçoamento; <br>•<br>Resolutividade; <br>•<br>Integridade; <br>•<br>Comprometimento; <br>•<br>Efetividade; <br>•<br>Negociação; <br>•<br>Sustentabilidade. <br>Estamos em busca de Jovens Aprendizes para compor o time da Central IT e transformar o futuro com a gente!<br>Responsabilidades e Atribuições <br>Aqui na Central IT, você será responsável por: <br>Realizar atendimento telefônico aos demandantes, oferecendo orientações básicas sobre serviços e políticas públicas; <br>Registrar ligações e solicitações no sistema; <br>Cumprir as rotinas da área conforme treinamento e orientação da equipe; <br>Desenvolver habilidades de atendimento, comunicação e uso de sistemas informatizados; <br>Participar de treinamentos e atividades formativas do programa de aprendizagem. <br>Requisitos e Qualificações <br>Hard Skills: <br>Ensino Médio completo, desejável cursando ensino superior em áreas correlatas à comunicação, por no mínimo 6 meses; <br>Conhecimentos básicos de informática (digitação, uso de navegadores e e-mail); <br>Boa comunicação verbal e escrita; <br>Facilidade para aprender novos sistemas e processos. <br>Soft Skills: <br>Vontade de aprender e se desenvolver profissionalmente; <br>Boa escuta e empatia no atendimento ao público; <br>Organização e responsabilidade com tarefas e horários; <br>Comprometimento com os estudos e o trabalho; <br>Proatividade e bom relacionamento interpessoal. <br>E quais são os benefícios?<br>Boa alimentação, com vale alimentação ou refeição; <br>Mobilidade para ir e vir, com vale transporte ou auxílio combustível; <br>Aprendizado constante <br>: treinamentos e formações em tecnologia, gestão e inovação; <br>Parcerias exclusivas <br>: acesso a benefícios do <br>SESC <br>para lazer, cultura, saúde e qualidade de vida. <br>Este desafio é para você. <br>Se ao conhecer essa oportunidade seus olhos brilharam pela possibilidade de atuar em um ambiente que conecta direito, tecnologia e estratégia de negócios para transformar realidades, a Central IT é o seu lugar. <br>Aqui buscamos profissionais que desejam mais do que ocupar uma função — buscamos quem queira protagonizar uma jornada de crescimento e impacto real no setor público de tecnologia. <br>Se você se identificou com este desafio, candidate-se e venha construir essa história conosco. <br>Ainda não é o seu momento, mas conhece alguém com esse perfil?<br>Compartilhe esta oportunidade e ajude um talento a encontrar seu próximo grande passo profissional. <br>Conheça mais sobre a Central IT e nosso ecossistema: <br>Instagram: @central_it <br>LinkedIn: Central IT </p>",
+    "company": "Central IT - Tecnologia em Negócios",
+    "city": "Brasília",
+    "state": "Brasília (microrregião)",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_2751576__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=Brasília&geoID=1366",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz (PcD)",
+    "description": "<p> Atividades: <br>• Apoiar a realização de cadastros e lançamentos diversos; <ul><li> Apoiar a realização de conferências de documentos e/ou planilhas;  </li><li> Ajudar no arquivamento e/ou controle de documentos;  </li><li> Auxiliar a realização de requisições de pedidos;  </li><li> Colaborar no atendimento e contato com as áreas e/ou fornecedores;  </li><li> Apoiar demais atividades administrativas; <br>Requisitos:  </li> </ul><p> Conhecimento básico no Pacote Office (Word, Excel e Power Point); <br>Formação: <br>Ensino Médio Completo; <br>Local de Trabalho: <br>Barra da Tijuca/RJ.  </p> </p>",
+    "company": "TAESA - Transmissora Aliança de Energia Elétrica S.A.",
+    "city": "Rio de Janeiro",
+    "state": "Rio de Janeiro (microrregião)",
+    "url": "https://br.whatjobs.com/coopob__cpl___3390_2751807__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-PcD&location=Rio-de-Janeiro&geoID=7326",
     "tipo": ""
   },
   {
@@ -3142,7 +3088,7 @@
   },
   {
     "title": "Aprendiz Em Manutenção",
-    "description": "Atividades: Auxiliar nos serviços do plano de manutenção preventiva nas máquinas, equipamentos e instalações elétricas dentro dos prazos determinados de forma organizada e com qualidade; <br /> Manter atualizados a quantidade de peças em estoque para garantir que as manutenções sejam realizadas com qualidade; <br /> Auxiliar técnicos de manutenção no cumprimento dos planos de manutenção planejada das máquinas e equipamentos das áreas de produção e utilidades; <br /> Cadastro de materiaise peças utilizando o sistema da manutenção. Requisitos Necessários: Conhecimento em Pacote Office. Formação: Ensino médio completo ou cursando; <br /> Ter concluídocurso noSENAI na área de Manutenção, Elétrica ou Eletrônica. Local de Trabalho: Itapecerica da Serra.",
+    "description": "Atividades: Auxiliar nos serviços do plano de manutenção preventiva nas máquinas, equipamentos e instalações elétricas dentro dos prazos determinados de forma organizada e com qualidade; <br /> Manter atualizados a quantidade de peças em estoque para garantir que as manutenções sejam realizadas com qualidade; <br /> Auxiliar técnicos de manutenção no cumprimento dos planos de manutenção planejada das máquinas e equipamentos das áreas de produção e utilidades; <br /> Cadastro de materiais e peças utilizando o sistema da manutenção.Requisitos Necessários:Conhecimento em Pacote Office. Formação:Ensino médio completo ou cursando; <br /> Ter concluído curso noSENAI na área de Manutenção, Elétrica ou Eletrônica. Local de Trabalho: Itapecerica da Serra.",
     "company": "Fresenius Kabi Brasil",
     "city": "Itapecerica Da Serra",
     "state": "Federative Republic Of Brazil",
@@ -8452,6 +8398,33 @@
   },
   {
     "title": "Jovem Aprendiz",
+    "description": "<h2>Descrição da empresa </h2> <p>A Syngenta é uma empresa líder do segmento de agricultura ajudando a melhorar a segurança alimentar global, permitindo que milhões de agricultores façam uso dos melhores dos recursos disponíveis. Através da ciência, tecnologia de ponta e soluções inovadoras de cultivo, os nossos colaboradores em mais de 100 países estão trabalhando para transformar a maneira como as culturas são feitas. Estamos empenhados em resgatar a terra da degradação, reforçar a biodiversidade e revitalização das comunidades rurais. </p>  <h2>Descrição do emprego </h2> <p>Não acreditamos em um futuro melhor, sem que ele seja construído agora. A Syngenta valoriza a diversidade por isso as vagas de jovem aprendiz são afirmativas, estamos à procura de Jovens Negros ou Pardo, para atuar como jovem aprendiz na Syngenta Seeds. </p><p>O que você irá fazer? </p><ul><li>Temos oportunidades para você ingressar no mercado de trabalho; </li><li>Auxílio em atividades administrativas da fábrica e escritório. </li> </ul><p>O que a Syngenta pode oferecer? </p><ul><li>Chance de se desenvolver em uma companhia multinacional e líder no setor agrícola; </li><li>Possibilidade de engajar e ter voz ativa em projetos importantes; </li><li>Gestores engajados com o desenvolvimento dos/as jovens. </li> </ul>  <h2>Qualificações </h2> <p>- Estudante do Ensino Médio, Técnico ou Graduação; </p><p>- Ter entre 17 e 22 anos; </p><p>- Residir em Aracati; </p><p>- Ter disponibilidade de atuação no período das 07h às 13h ou 10h48 às 16h48h; </p>  <h2>Informações Adicionais </h2> <p>A Syngenta oferece: </p><ul><li>Remuneração </li><li>Benefícios </li><li>Inúmeras possibilidades de carreira </li> </ul><p>Os candidatos devem ser residentes e ter todos os direitos para trabalhar no país onde a posição está aberta </p><p>Mais do que acreditar apenas no poder da diversidade, a Syngenta vem promovendo uma cultura inclusiva que abrange as diferenças em todas as formas. Aqui, acreditamos que o sentimento de pertencimento permite que as pessoas recebam as melhores versões de si mesmas, construindo um ambiente cada vez mais acolhedor e produtivo. Todas as pessoas afetadas serão consideradas para as vagas, sem distinção de raça, gênero, idade, nacionalidade ou deficiência. </p>",
+    "company": "Syngenta Group",
+    "city": "Aracati",
+    "state": "Ceará",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4459438__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=Aracati&geoID=533",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz",
+    "description": "<br><p>Vaga: Jovem Aprendiz </p><p>Local: Barra Funda, zona oeste, São Paulo - SP </p><p>Modelo de trabalho: Presencial  </p><p>Benefícios: Vale alimentação de R$ 41,80 p/dia + Vale transporte + Totalpass </p><p>**Sobre a empresa contratante: </p><p>Construtora brasileira fundada em 1992, com forte atuação em obras industriais, hospitalares, data centers e infraestrutura. Destaca-se pela capacidade de executar projetos complexos e de missão crítica. Está entre as maiores construtoras do país, segundo rankings recentes do setor. A empresa valoriza qualidade, segurança, sustentabilidade e alto padrão técnico. </p><p>Estamos contratando aprendiz para atuar em um de nossos clientes, com foco na área de Administrativa e RH. </p><p>**Requisitos: </p><p>Ensino Médio/Superior, completo ou cursando; </p><p>Idade dos 16 aos 22 anos; </p><p>Meninos maior de 18 anos com reservista. </p><p>**Atividades: </p><p>Realização de rotinas administrativas de Administração de Pessoal, incluindo conferência de documentos, controle e preenchimento de planilhas, envio de contratos e listas de presença ao sistema de gestão, além de contato com candidatos e colaboradores. Também inclui apoio aos processos de Admissão e Recrutamento & Seleção, com agendamento de entrevistas e suporte aos gestores. </p><p>Venha fazer parte da equipe, candidata-se agora mesmo nesta vaga </p><br>#LI-Onsite",
+    "company": "Enterpriserh",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4459495__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz&location=São-Paulo&geoID=25",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz Administrativo",
+    "description": "<br><p>Será desenvolvido em atividades administrativas como preenchimento de planilhas, atendimento telefônico, organização de arquivos e pastas, lançamento de informações em sistemas, etc. Salário em torno de R$1030,00 + VT + VR de 11,25 por dia (temos refeitório no local para levar marmita). Horário de segunda a sexta das 8h30 às 14h50, local de trabalho Ed. Winwork Chácara Santo Antônio - zona sul - entre as estações João Dias e Granja Julieta da CPTM - linha Esmeralda. </p><p>Perfil: necessário residir na zona sul de São Paulo/SP ou ter fácil acesso, ter boa comunicação, simpatia, interesse em aprender e crescer, atenção, concentração, bom relacionamento em grupo, gostar de se comunicar, gostar de informática, proatividade. </p><br>#LI-Onsite",
+    "company": "InHouse",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4459543__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-Administrativo&location=São-Paulo&geoID=25",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz",
     "description": "<p>None:<br>Junte-se à equipe da Atlas Eletrodomésticos como Jovem Aprendiz e faça parte do nosso Time de Especialistas ??? </p><p>Quais serão suas principais responsabilidades? </p><p>Auxiliar nas atividades junto a Manufatura Industrial. </p><p>Para executar essas atividades será necessário:<br>Ter entre 14 e 24 anos; </p><p>Estar estudando; </p><p>Residir em Pato Branco ou Coronel Vivida; </p><p>Ser responsável, proativo e ter disponibilidade para aprender. </p><p>Para participar do processo, você deve anexar o link de um vídeo de apresentação no questionário, com no máximo 2 minutos, respondendo as seguintes perguntas: </p><p>Quem é você? </p><p>Por que você quer ser jovem aprendiz da Atlas? </p><p>Por que a Atlas deve te contratar? </p><p>? Você trabalhará presencialmente , 4h diárias de segunda a sexta, pela manhã ou a tarde. </p><p>? Interessado nesta oportunidade? </p><p>? Inscreva-se agora e participe do nosso processo seletivo </p><p>None:<br>None </p>",
     "company": "ATLAS INDUSTRIA DE ELETRODOMÉSTICOS LTDA",
     "city": "Aeroporto de Pato Branco",
@@ -8496,6 +8469,15 @@
     "tipo": ""
   },
   {
+    "title": "Aprendiz Administrativo",
+    "description": "<br><p>inserir informações e dados em planilhas no sistema da empresa;<br>controlar e organizar arquivos recebidos e enviados;<br>manter diversos registros atualizados;<br>conferir, catalogar e arquivar documentos;<br>prestar atendimento inicial a clientes e fornecedores;<br>monitorar os suprimentos do escritório e solicitar a reposição de estoque;<br>verificar o movimento de entrada e saída de correspondências;<br>colaborar na organização de agendas e calendários de tarefas;<br>acompanhar e efetuar o lançamento das notas fiscais do setor;<br>monitorar os prazos de pagamentos de fornecedores;<br>dar apoio em diferentes processos internos da empresa, monitorando e auxiliando nas demandas de rotina da área. </p><br>#LI-Onsite",
+    "company": "Grupo GPS",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4461396__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-Administrativo&location=São-Paulo&geoID=25",
+    "tipo": ""
+  },
+  {
     "title": "Jovem Aprendiz Administrativo",
     "description": "<p>Oportunidade de Jovem Aprendiz Administrativo na PARVI </p><p>Estamos em busca de um Jovem Aprendiz Administrativo para se juntar à nossa equipe na PARVI. </p><p>Este é um programa de aprendizado que visa proporcionar uma experiência enriquecedora e um caminho de crescimento profissional. </p><p>Como Jovem Aprendiz, você terá a oportunidade de desenvolver habilidades administrativas essenciais, enquanto contribui para um ambiente de trabalho dinâmico e colaborativo. </p><p>O programa de Jovem Aprendiz é direcionado a jovens entre 18 e 22 anos, tenham concluído o ensino médio. </p><p>O programa oferece benefícios como bolsa-auxílio, o horário de trabalho é flexível e adaptado às necessidades do jovem aprendiz e da empresa. </p><p>A PARVI valoriza a diversidade e está comprometida em criar um ambiente de trabalho inclusivo. </p><p>Se você se identifica com os requisitos e está entusiasmado para aprender e crescer conosco, esta é a chance de mostrar seu potencial. </p><p>Escolaridade Mínima: Ensino Médio (2º Grau) </p>",
     "company": "PARVI",
@@ -8523,6 +8505,15 @@
     "tipo": ""
   },
   {
+    "title": "Jovem Aprendiz Atendente",
+    "description": "<br><p>Está à procura de um emprego dinâmico, onde possa crescer e desenvolver as suas habilidades? O McDonald's tem a vaga perfeita para você<br>O QUE OFERECEMOS:<br>- Salário competitivo<br>- Oportunidades de crescimento e desenvolvimento profissional<br>- Ambiente de trabalho amigável e colaborativo<br>- Benefícios que deixam tudo ainda mais gostoso<br>- Treinamento completo sobre os produtos, serviços e procedimentos da McDonald's (ALB).<br>RESPONSABILIDADES E ATRIBUIÇÕES:<br>Como será o seu dia a dia <br>(spoiler: gerar muitos sorrisos faz parte do pacote)<br>- A gente contará com você para as atividades operacionais do restaurante: preparar e montar os pedidos; atendimento ao cliente e, também, garantir que ambiente e equipamentos estejam sempre limpos. Confira detalhes<br>- Atender aos clientes é uma das partes mais importantes do trabalho: é nossa prioridade gerar sorrisos Você, como atendente, será responsável pelo atendimento nos nossos restaurantes, com atividades como gerar os pedidos e receber o pagamento, inclusive no nosso Drive-Tudo.<br>- Preparar as delícias que saem da nossa cozinha: sanduíches, McFritas, bebidas e sobremesas, como a nossa famosa casquinha. <br>- Você será treinado para operar equipamentos apropriados e, também, sobre como manter nosso super padrão de qualidade, higiene, limpeza e segurança.<br>- Limpar a e higienizar nossos equipamentos, pisos, cadeiras, mesas e instalações do restaurante e arredores, sempre de acordo com as orientações e manual de operação.<br>- Participar de nossos programas de treinamento, integração e comunicação por meio de reuniões, webinares, sessões de participação e cursos técnicos. O objetivo é garantir que você esteja sempre atualizado tanto na parte técnica quanto operacional.<br>REQUISITOS E QUALIFICAÇÕES:<br>Ingredientes que não pode faltar <br>- Ensino médio cursando ou completo.<br>- Idade entre de 16 anos a 22 anos;<br>- Disponibilidade para trabalhar em escala 5x2.<br>- Motivação e vontade de aprender<br>Pronto para uma experiência tão inesquecível quanto um Big Mac? Se inscreva </p><br>#LI-Onsite",
+    "company": "Alb",
+    "city": "São Paulo",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4461920__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-Atendente&location=São-Paulo&geoID=25",
+    "tipo": ""
+  },
+  {
     "title": "Aprendiz Administrativo",
     "description": "<p>Estamos em busca de um(a)<br>Aprendiz<br>para atuar no apoio ao time da Flex Wind, em diferentes setores da empresa. </p><p>Responsabilidades </p><ul><li>Auxiliar na organização de documentos e controles administrativos; </li><li>Apoiar o acompanhamento de relatórios e registros de atividades operacionais; </li><li>Colaborar na comunicação entre os times de campo e as áreas de suporte; </li><li>Apoiar na atualização de planilhas e sistemas internos; </li><li>Participar de reuniões internas de alinhamento, com suporte da equipe. </li> </ul><p>Requisitos </p><ul><li>Ensino Médio Completo; Cursando ensino Superior/Técnico. </li><li>Interesse em aprender sobre rotinas administrativas e operacionais; </li><li>Conhecimentos básicos de informática, especialmente Excel; </li><li>Disponibilidade no turno da Tarde ou Manhã </li><li>Ter de 18 a 24 anos </li> </ul><p>Diferenciais </p><ul><li>Conhecimento prévio em ambientes administrativos ou operacionais; </li><li>Facilidade para trabalhar em equipe. </li><li>Boa comunicação, organização e vontade de aprender. </li> </ul><p>Who are we?<br>Who are you?<br>What We Offer You<br>Is this the job for you? </p>",
     "company": "Flex Wind",
@@ -8538,6 +8529,24 @@
     "city": "Joinville",
     "state": "Santa Catarina",
     "url": "https://br.whatjobs.com/coopob__cpl___4793_4462057__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-em&location=Joinville&geoID=4554",
+    "tipo": ""
+  },
+  {
+    "title": "Aprendiz - Vaga Afirmativa Feminino - SOROCABA - SP",
+    "description": "<br><p>Descrição do cargo </p><p>Apoiar as áreas de EHS, Qualidade, Produção, Logística e PCP no atendimento a demandas administrativas e operacionais, contribuindo para a organização, controle de processos e suporte às rotinas diárias, desenvolvendo habilidades profissionais e conhecimentos práticos. </p><p>Descrição adicional do cargo </p><ul><li>Auxiliar na organização e arquivamento de documentos físicos e digitais; </li><li>Apoiar no preenchimento de planilhas, relatórios e sistemas internos; </li><li>Realizar lançamentos de dados em sistemas de controle e gestão; </li><li>Apoiar na elaboração de apresentações e materiais de comunicação interna; </li><li>Auxiliar no controle de EPIs, checklists e indicadores de EHS; </li><li>Apoiar nas rotinas de inspeção e controle de qualidade; </li><li>Dar suporte às atividades de planejamento e controle da produção (PCP); </li><li>Auxiliar na organização de materiais, inventários e movimentações logísticas; </li><li>Apoiar a comunicação entre áreas e no atendimento a demandas operacionais diversas. </li> </ul><p>Requisitos: </p><p>Ensino Médio - Completo ou Cursando </p><p>Idade mínima -  18 anos completos  </p><p>Obs. não pode estar cursando técnico e/ou graduação.  </p><p>Disponibilidade para período integral e presencial em Sorocaba - SP </p><br>#LI-Onsite",
+    "company": "ClickRh",
+    "city": "Sorocaba",
+    "state": "São Paulo",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4462555__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz-Vaga&location=Sorocaba&geoID=8852",
+    "tipo": ""
+  },
+  {
+    "title": "Jovem Aprendiz Administrativo",
+    "description": "<br><p>Oportunidade de Jovem Aprendiz Administrativo na Almaviva </p><p>Estamos em busca de um Jovem Aprendiz Administrativo para se juntar ao nosso time dinâmico e crescer junto conosco. </p><p>Se você tem entre 18 e 21 anos, está cursando ou concluiu o ensino médio e busca uma oportunidade de aprendizado em um ambiente profissional, esta é a chance perfeita para você. </p><p>Como Jovem Aprendiz Administrativo, você terá a oportunidade de aprender e desenvolver habilidades essenciais em administração, enquanto contribui para as operações diárias da empresa. </p><p>Seu papel será fundamental para o nosso sucesso e crescimento contínuo. </p><p>As principais responsabilidades incluirão: </p><p>- Auxílio nas atividades administrativas diárias; </p><p>- Suporte ao setor de recursos humanos; </p><p>- Organização e manutenção de arquivos; </p><p>- Atendimento ao público; </p><p>- Realização de tarefas de rotina sob orientação. </p><p>Nossa empresa valoriza o desenvolvimento de nossos jovens aprendizes e oferece um ambiente de trabalho acolhedor e motivador. </p><p>Você terá a oportunidade de aprender com profissionais experientes e contribuir para um ambiente de trabalho positivo e colaborativo. </p><p>Para se candidatar, é necessário ter interesse genuíno em aprender e crescer profissionalmente. </p><p>A jornada de aprendizado é uma excelente oportunidade para desenvolver habilidades que serão valiosas em qualquer carreira administrativa. </p><p>Junte-se a nós e comece uma jornada de aprendizado e crescimento profissional na Almaviva </p><br>#LI-Onsite",
+    "company": "Almaviva Experience",
+    "city": "Nossa Senhora do Socorro",
+    "state": "Sergipe",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4462922__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-Administrativo&location=Nossa-Senhora-do-Socorro&geoID=5764",
     "tipo": ""
   },
   {
@@ -8982,21 +8991,12 @@
     "tipo": ""
   },
   {
-    "title": "Jovem Aprendiz Administrativo",
-    "description": "<br><p>JOVEM APRENDIZ - ITAÚNA (MG) </p><p>Empresa de grande porte do segmento da indústria automotiva contrata: JOVEM APERNDIZ com curso ligado a área de APRENDIZAGEM INDUSTRIAL EM ASSISTENTE DE PLANEJAMENTO E CONTROLE DA PRODUÇÃO  gratuito no SENAI ITAÚNA. </p><p>Informações da vaga: </p><p><br>•   Duração de dois anos; </p><p><br>•   Carga horária de 6 horas ao dia de segunda a sexta-feira no período da manhã; </p><p><br>•   Aulas teóricas no SENAI e práticas na empresa; </p><p><br>•   O programa oferece bolsa auxílio, transporte, alimentação, plano de saúde, seguro de vida e Wellhub; </p><p><br>•  Início imediato. </p><p>Pré-requisitos para se candidatar </p><p><br>•   Ter entre 16 e 21 anos; </p><p><br>•   Ensino Médio cursando (até 17 anos) ou completo (a partir de 17/ 18 anos); </p><p><br>•   Apresentar toda a documentação necessária (Certificado de Escolaridade, Título de Eleitor; Reservista para homens); </p><p><br>•   Possuir fácil acesso ao SENAI; </p><p><br>•   Necessário residir em Itaúna por conta do fretado. </p><p>Oferta e Benefícios: </p><p>Tipo de Contrato: Jovem Aprendiz </p><p>Bolsa auxilio + benefícios ( Cesta Básica sem coparticipação, Fretado, restaurante sem coparticipação, Seguro de Vida, Wellhub e Assistência Médica) </p><p>Horário e Escala: Segunda a sexta-feira (6h por dia) </p><br>#LI-Onsite",
-    "company": "Gi Group",
-    "city": "Itaúna",
+    "title": "Aprendiz",
+    "description": "<br><p>Cargo: Aprendiz  </p><p> Local: Extrema - MG  </p><p> Idade: 17 a 21 anos </p><p> Benefícios: Cesta Básica, VT, convênio médico e Odontológico, Gympass, Unimed Seguros, Curso de Aprendizagem Semanal </p><p> Escala: Segunda a Sexta 6h por dia </p><p> Contato WhatsApp: – Vanessa </p><p> E-mail para envio de currículo:  </p><br>#LI-Onsite",
+    "company": "Innova Recursos Humanos",
+    "city": "Extrema",
     "state": "Minas Gerais",
-    "url": "https://br.whatjobs.com/coopob__cpl___4793_4882983__1953?utm_source=1953&utm_medium=feed&keyword=Jovem-Aprendiz-Administrativo&location=Itaúna&geoID=4278",
-    "tipo": ""
-  },
-  {
-    "title": "Aprendiz -  Americana",
-    "description": "<br><p>Venha iniciar sua carreira com a gente <br>Aqui na Cobasi, somos uma grande família de pessoas apaixonadas pela vida e queremos você conosco. <br>Que tal trabalhar em um lugar acolhedor com oportunidade de adquirir novos conhecimentos e se desenvolver profissionalmente?<br>Nesta vaga, você passará por diversas áreas da empresa e fará um curso de capacitação profissional no Senac. Demais, né? <br>Oferecemos um pacote de benefícios diferenciados como:  <br>- Vale Transporte,<br>- Vale Refeição,<br>- Vale Alimentação<br>- Assistência Médica e Odontológica,<br>- Café da Manhã / Tarde, <br>- Convênio com o Senac e com Sesc.<br>Para se inscrever você deve: <br>- Estudar no período manhã ou ter disponibilidade imediata de mudança para este horário; <br>- Ter disponibilidade para realizar curso no Senac Americana  no período da tarde. <br>Gostou? Venha fazer parte nossa família <3 </p><br>#LI-Onsite",
-    "company": "Cobasi",
-    "city": "Americana",
-    "state": "São Paulo",
-    "url": "https://br.whatjobs.com/coopob__cpl___4793_4883004__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=Americana&geoID=375",
+    "url": "https://br.whatjobs.com/coopob__cpl___4793_4882921__1953?utm_source=1953&utm_medium=feed&keyword=Aprendiz&location=Extrema&geoID=3086",
     "tipo": ""
   }
 ]
