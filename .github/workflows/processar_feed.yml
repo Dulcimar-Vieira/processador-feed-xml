@@ -1,12 +1,14 @@
+# Atualização automática do feed
 name: Processar Feed XML
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Executa a cada 12 horas
-  workflow_dispatch:  # Permite rodar manualmente
+    # A cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Permite fazer commit e push no repositório
+  contents: write
 
 jobs:
   process-feed:
@@ -17,40 +19,36 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Instalar Dependências
-        run: pip install requests
-
-      - name: Garantir pasta json_parts existe
         run: |
-          mkdir -p json_parts
-          touch json_parts/.gitkeep
+          python -m pip install --upgrade pip
+          pip install requests
 
-      - name: Baixar e Processar Feed XML
+      - name: Executar script.py
         run: |
           python script.py || { echo "Erro ao executar script.py"; exit 1; }
 
-      - name: Mesclar arquivos JSON em merged.json
+      - name: Executar merge_json.py
         run: |
           python merge_json.py || { echo "Erro ao executar merge_json.py"; exit 1; }
 
-      - name: Verificar arquivos antes do commit
+      - name: Verificar arquivos gerados
         run: |
-          ls -lh json_parts/ || echo "A pasta json_parts está vazia!"
-          ls -lh merged.json || echo "merged.json não foi gerado!"
+          echo "📁 json_parts:"
+          ls -lh json_parts/
+          echo "📄 merged.json:"
+          ls -lh merged.json || true
+          echo "📄 estado diário:"
+          ls -lh daily_jobs_state.json || true
 
       - name: Configurar Git
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-      - name: Commit e Push dos Arquivos JSON
+      - name: Commit e Push
         run: |
-          cd $GITHUB_WORKSPACE
           git add -f json_parts/
           git add -f merged.json
-          git commit -m "Atualização automática dos arquivos JSON" || echo "Nada para commitar"
+          git add -f daily_jobs_state.json
+          git commit -m "Atualização do feed - 100 vagas/dia" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
-
-      - name: Verificar arquivos após o commit
-        run: |
-          ls -lh json_parts/
-          ls -lh merged.json
