@@ -25,7 +25,8 @@ REQUEST_TIMEOUT = 90
 TARGET_RE = re.compile(
     r"\b(?:"
     r"estagio|estagiari[oa]s?|"
-    r"jovens?\s+aprendizes?|aprendiz(?:es)?|aprendizagem|"
+    r"jovens?\s+aprendiz(?:es)?|aprendiz(?:es)?|"
+    r"programa\s+de\s+aprendizagem|aprendizagem\s+profissional|"
     r"primeiro\s+emprego|primeira\s+experiencia|primeira\s+oportunidade"
     r")\b",
     re.IGNORECASE,
@@ -200,7 +201,7 @@ def build_job(elem):
     if not title or not url or not city or not state:
         return None
 
-    searchable_text = normalize(" ".join((title, job_type, description_raw)))
+    searchable_text = normalize(" ".join((title, job_type)))
     if not TARGET_RE.search(searchable_text):
         return None
 
@@ -265,7 +266,7 @@ def main():
                     job_type = text_at(elem, "jobType")
                     if not title or not (text_at(elem, "urlDeeplink") or text_at(elem, "link")):
                         counts["dados_obrigatorios_ausentes"] += 1
-                    elif not TARGET_RE.search(normalize(" ".join((title, job_type, description)))):
+                    elif not TARGET_RE.search(normalize(" ".join((title, job_type)))):
                         counts["fora_das_categorias"] += 1
                     else:
                         salary = extract_salary(text_at(elem, "salary"), description)
