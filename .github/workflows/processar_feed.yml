@@ -50,5 +50,5 @@ jobs:
           git add -f json_parts/
           git add -f merged.json
           git add -f daily_jobs_state.json
-          git commit -m "Atualização do feed - 100 vagas/dia" || echo "Nada para commitar"
+          git commit -m "Atualização do feed - até 1000 vagas por execução" || echo "Nada para commitar"
           git push || echo "Nenhuma alteração para enviar"
