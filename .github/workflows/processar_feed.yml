@@ -2,6 +2,11 @@
 name: Processar Feed XML
 
 on:
+  push:
+    paths:
+      - 'script.py'
+      - 'merge_json.py'
+      - '.github/workflows/**'
   schedule:
     # A cada 6 horas
     - cron: "0 */6 * * *"
